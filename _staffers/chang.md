@@ -3,7 +3,7 @@ name: Keng-Chi Chang
 role: Teaching Assistant
 email: kechang@ucsd.edu
 pronouns: he/him
-photo: ../../assets/staff-images/chang.jpg
+photo: chang.jpg
 current: 5th year PhD student, Political Science + 1st year MS Student, Computer Science & Engineering
 education: idk
 hometown: Taipei, Taiwan
