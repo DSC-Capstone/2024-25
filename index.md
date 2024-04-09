@@ -15,7 +15,7 @@ This site is under construction! -->
 {: .green }
 **This is the student-facing course website for the 2023-24 offering of the capstone sequence. See [dsc-capstone.org](https://dsc-capstone.org) for more general information.**
 
-The schedule and dates below are subject to change throughout the quarter.
+### Winter 2024 Schedule
 
 | Week | Tasks<br><small>These are all in addition to [Weekly Participation Assignments](assignments/participation/q2), which are due on Sundays at 11:59PM. All groups must fill these out, no matter what other requirements your mentors give you.</small> |
 | --- | --- |
@@ -32,7 +32,7 @@ The schedule and dates below are subject to change throughout the quarter.
 
 ---
 
-You may find it useful to refer to last quarter's methodology content.
+### Fall 2023 Schedule
 
 <table>
     <colgroup>
