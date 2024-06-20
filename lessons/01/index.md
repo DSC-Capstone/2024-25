@@ -89,6 +89,8 @@ The following [video](https://www.youtube.com/watch?v=M057OfURvIQ) demonstrates 
 <iframe width="888" height="500" src="https://www.youtube.com/embed/M057OfURvIQ?si=OMPzOFDIYcMbWxFq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </center>
 
+[**Here, you'll find another useful DSMLP guide written by Eugene Ku, a former DSC 180AB student.**](https://docs.google.com/document/d/1qTMl8xLlX0jkEaGetrwTxa0zqeYSWDSvZ9k17TSNSC0/edit)
+
 ### Basics
 
 Here, we will cover the basics of accessing DSMLP. For more advanced usage, see [campus documentation](https://support.ucsd.edu/services?id=kb_category&kb_category=368cc80fdb5c68d0d4781c79139619e2), and in particular the [FAQ](https://support.ucsd.edu/services?id=kb_article_view&sysparm_article=KB0030470), which are very detailed. We'll also cover more in-depth behavior (e.g. how to use GPUs, how to run jobs overnight without having to keep your Terminal open) in next week's lesson.
