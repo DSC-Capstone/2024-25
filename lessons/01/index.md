@@ -89,7 +89,7 @@ The following [video](https://www.youtube.com/watch?v=M057OfURvIQ) demonstrates 
 <iframe width="888" height="500" src="https://www.youtube.com/embed/M057OfURvIQ?si=OMPzOFDIYcMbWxFq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </center>
 
-[**Here, you'll find another useful DSMLP guide written by Eugene Ku, a former DSC 180AB student.**](https://docs.google.com/document/d/1qTMl8xLlX0jkEaGetrwTxa0zqeYSWDSvZ9k17TSNSC0/edit)
+[**Here, you'll find another useful DSMLP guide written by Eugene Ku, a former DSC 180AB student. It talks, among other things, about how to access DSMLP through VSCode.**](https://docs.google.com/document/d/1qTMl8xLlX0jkEaGetrwTxa0zqeYSWDSvZ9k17TSNSC0/edit)
 
 ### Basics
 
