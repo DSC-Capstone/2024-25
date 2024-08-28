@@ -23,7 +23,7 @@ nav_order: 2
 
 ## Overview
 
-Welcome to the capstone program! The capstone program is a **two-quarter sequence** (Fall 2023 and Winter 2024) in which you will be mentored by a faculty or industry expert in their domain of expertise. By the end of Quarter 2, you will design and execute a project from that domain in teams of 2-4. You can see the projects from last year [here](https://dsc-capstone.github.io/showcase-23/), and from all prior years [here](../archive).
+Welcome to the capstone program! The capstone program is a **two-quarter sequence** (Fall 2024 and Winter 2025) in which you will be mentored by a faculty or industry expert in their domain of expertise. By the end of Quarter 2, you will design and execute a project from that domain in teams of 2-4. You can see the projects from last year [here](https://dsc-capstone.github.io/showcase-24/), and from all prior years [here](../archive).
 
 At a high level, here's how the capstone program is organized:
 - In Quarter 1 (DSC 180A), you gain background information in your mentor's domain by working on a guided project (e.g. a paper replication). By the end of Quarter 1, not only will you have you completed a guided project (your "Quarter 1 Project"), but you will write a proposal for a more independent project (known as the "Quarter 2 Project", or the capstone project).
@@ -33,7 +33,7 @@ Throughout Quarter 1, there is a "methodology" component that supplements your k
 
 ---
 
-# Quarter 2 (DSC 180B, Winter 2024)
+# Quarter 2 (DSC 180B, Winter 2025)
 
 In Quarter 2, you will execute your [Quarter 2 Project](../assignments/projects/q2), the proposal for which you submitted at the end of Quarter 1. You will also prepare to present your work to a variety of audiences, in a variety of formats (most notably, as a poster at our [**in-person capstone showcase**](https://dsc-capstone.org/showcase-24) on Friday, March 15th).
 
@@ -96,7 +96,7 @@ Refer to the [Collaboration Policy and Academic Integrity](#collaboration-policy
 
 ---
 
-# Quarter 1 (DSC 180A, Fall 2023)
+# Quarter 1 (DSC 180A, Fall 2024)
 
 ## Getting Started
 
