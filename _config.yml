@@ -15,9 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 title: DSC 180AB
 tagline: Data Science Capstone
-description: DSC 180AB, Fall 2023 and Winter 2024 at UC San Diego
+description: DSC 180AB, Fall 2024 and Winter 2025 at UC San Diego
 author: Suraj Rampure
-baseurl: '/2023-24' # the subpath of your site, e.g. /blog
+baseurl: '/2024-25' # the subpath of your site, e.g. /blog
 url: 'https://dsc-capstone.org' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
@@ -33,7 +33,7 @@ aux_links:
     - 'https://www.gradescope.com/courses/697313/'
   Ed:
     - 'https://edstem.org/us/courses/48541/discussion/'
-  Winter 2024 Meeting Times:
+  Winter 2025 Meeting Times:
     - 'https://docs.google.com/spreadsheets/d/1dCjs06QobZ3jrMBFIMeHYuqXDpGZHLZAxYUnraVQtNI/edit#gid=0'
   Domain Descriptions:
     - 'https://dsc-capstone.github.io/enrollment'
