@@ -22,4 +22,5 @@ See the [Office Hours](../office-hours) page for the office hours schedule. **If
 
 ## Teaching Assistants
 
-## TBD
+Coming soon
+
