@@ -43,9 +43,9 @@ A few things to note before the quarter begins:
 
 - Sections begin on Monday, January 8th. Confirm the date and time of your discussion section [here](https://docs.google.com/spreadsheets/d/1dCjs06QobZ3jrMBFIMeHYuqXDpGZHLZAxYUnraVQtNI/edit#gid=0).
   - Make sure to enroll in your section ASAP if you haven't already, and to start participating from Day 1.
-- There are no new methodology lessons or assignments in Quarter 2. Everything you'll be required to submit will be in some way related to your Quarter 2 Project, and all deadlines are on the course homepage. There are, however, [Office Hours](../office-hours) held by Suraj and the methodology TAs each week.
-- Make sure you can access the following sites; email Suraj if you can't:
-    - The **new** Winter 2024 [Gradescope](https://www.gradescope.com/courses/697313), where all assignments will be submitted.
+- There are no new methodology lessons or assignments in Quarter 2. Everything you'll be required to submit will be in some way related to your Quarter 2 Project, and all deadlines are on the course homepage. There are, however, [Office Hours](../office-hours) held by the methodology TAs each week.
+- Make sure you can access the following sites; email the instructor if you can't:
+    - The **new** 2025 [Gradescope](https://www.gradescope.com/courses/697313), where all assignments will be submitted.
     - We will use the same [Ed](https://edstem.org/us/courses/48541/discussion/) instance as we did in the fall. **All class-wide announcements will be sent here!**
 
 ---
@@ -106,7 +106,7 @@ Before the quarter begins:
     - **Note that sections begin the week of Monday, October 2nd (Week 1).** You must attend your discussion section each week.
     - If your section is being held on Zoom, your mentor should reach out to you before your first section with the link.
 - Note that there is only one live lecture this quarter, on Monday, October 2nd. All other methodology instruction will be provided asynchronously.
-- Make sure you can access the following sites; email Suraj if you can't:
+- Make sure you can access the following sites; email the instructor if you can't:
     -  [Gradescope](https://www.gradescope.com/courses/637426), where all assignments will be submitted.
     - [Ed](https://edstem.org/us/courses/48541/discussion/), the discussion forum we will use for methodology. **All class-wide announcements will be sent here!**
 
@@ -130,14 +130,14 @@ The subsections below describe how the course operates.
 Lectures are focused on methodological skills that can apply to all domains. In lectures, we will cover best practices with software engineering for data science and project management (see the [course homepage](../) for a full listing in Quarter 1). 
 
 Based on feedback from prior iterations of the capstone, we've decided to deliver methodology lectures as **lecture notes** that you read outside of class and discuss with course staff during synchronous sessions. Specifically:
-- Each Tuesday, we will post a "lesson" on the [course homepage](../). A lesson will contain all of the methodology content you need to learn for the week. **Read each lesson on your own.** (We will make an announcement on Ed when we release new lessons).
+- Each Tuesday, we will post a "lesson" on the [course homepage](../). A lesson will contain all of the methodology content you need to learn for the week. **Read each lesson on your own.** (We will make an announcement when we release new lessons).
 - Many methodology lessons will have an accompanying "methodology assignment", due the following Monday. See the [Assignments](#assignments-and-grades) section for more details.
-- Suraj and the methodology TAs will hold office hours throughout the week to answer any questions with methodology content (or even your domain work, for that matter).
+- The methodology TAs will hold office hours throughout the week to answer any questions with methodology content (or even your domain work, for that matter).
 
-Note that on **Monday, October 2nd, we will hold a "traditional" introductory lecture during the scheduled lecture slots, and you should plan to attend**. The first methodology lesson will be released on Tuesday, October 3rd.
+Note that on **Monday, September 30th, we will hold a "traditional" introductory lecture during the scheduled lecture slots, and you should plan to attend**. The first methodology lesson will be released on Tuesday, October 1st.
 
 {: .red }
-**We will not be using the "lab" component of the course that appears on WebReg, nor will we be using the "lecture" component after Monday, October 2nd.**
+**We will not be using the "lab" component of the course that appears on WebReg, nor will we be using the "lecture" component after Monday, Sept 30th.**
 
 ### Discussion (Domain)
 
@@ -160,10 +160,7 @@ There are two flavors of office hours:
 
 ### Remark on How the Course is Split
 
-As is common in data science, you will likely find yourself as a
-bridge between domain specialists and (computing) methodology
-specialists. In this course, it is totally normal if your domain mentors do not know specifics of your code
-(or even know the language you are coding in!). You will have access to help from both methodology experts (in office hours and EdStem) and your domain mentor (in discussion section and office hours). As such, it is up to you to formulate your questions for the appropriate audience (methodology expert or domain expert) so that you can adequately communicate with them to solve the problems you are facing.
+As is common in data science, you will likely find yourself as a bridge between domain specialists and (computing) methodology specialists. In this course, it is totally normal if your domain mentors do not know specifics of your code(or even know the language you are coding in!). You will have access to help from both methodology experts (in office hours) and your domain mentor (in discussion section and office hours). As such, it is up to you to formulate your questions for the appropriate audience (methodology expert or domain expert) so that you can adequately communicate with them to solve the problems you are facing.
 
 ---
 
@@ -209,7 +206,7 @@ your "numerical" grade would be $$0.05 \cdot 4 + 0.05 \cdot 4 + 0.05 \cdot 3 + 0
 
 You are guaranteed to earn **at least** the letter grade that your numerical grade converts to. For instance, a 3.7 is guaranteed to learn at least an A-, and a 2.0 is guaranteed to earn at least a C. When your numerical grade is between two letter grades, you are guaranteed to earn at least the lower letter grade; for instance, 3.8 is between 3.7 (A-) and 4.0 (A), so a 3.8 is guaranteed to learn at least an A-.
 
-Note that at the end of Fall 2023 you will receive a grade in DSC 180A, and at the end of Winter 2024 you will receive a grade in DSC 180B; these are two separate courses, each worth 4 units.
+Note that at the end of Fall 2024 you will receive a grade in DSC 180A, and at the end of Winter 2025 you will receive a grade in DSC 180B; these are two separate courses, each worth 4 units.
 
 With all of that said, in this course, you should not worry about your letter grade. The grades you receive on individual components of the course are meant to provide you with feedback on how to improve future submissions. **To be successful in this course, you should strive to have engaging interactions with your domain mentor and to produce work that you are proud of.** Nobody will remember whether you got an A- or a B in the capstone, but they will remember if you produce a stellar final project.
 
