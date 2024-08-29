@@ -55,7 +55,7 @@ This site is under construction! -->
     <tbody>
         <tr>
             <td></td>
-            <td>Live on Monday, Oct. 2: <a href="https://docs.google.com/presentation/d/1ekVJK67mniCzxUEvNkPZwSd-AJqBZfhrmfaAhLOYoUY/edit?usp=sharing">Introduction</a> (<a href="https://youtu.be/s2s7trgLiao">🎥 recording</a>)</td>
+            <td>Live on Monday, Sept 30: <a href="https://docs.google.com/presentation/d/1ekVJK67mniCzxUEvNkPZwSd-AJqBZfhrmfaAhLOYoUY/edit?usp=sharing">Introduction</a> </td>
             <td></td>
             <td></td>
             <td></td>
@@ -63,7 +63,7 @@ This site is under construction! -->
         <tr>
             <td>1</td>
             <td><a href="lessons/01">Servers I: Accessing DSMLP</a></td>
-            <td><a href="assignments/methodology/01">MA 1 (due Oct. 9)</a><br><a href="https://docs.google.com/forms/d/e/1FAIpQLSdZpdbeqKjmeAlUo5wQJLC2XF2E7xVbIrIHJjt4-lvmuP8F6g/viewform">Welcome Survey (due Oct. 9)</a></td>
+            <td><a href="assignments/methodology/01">MA 1 (due Oct. 7)</a><br><a href="https://docs.google.com/forms/d/e/1FAIpQLSdZpdbeqKjmeAlUo5wQJLC2XF2E7xVbIrIHJjt4-lvmuP8F6g/viewform">Welcome Survey (due Oct. 7)</a></td>
             <td></td>
             <td></td>
         </tr>
