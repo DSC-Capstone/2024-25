@@ -13,7 +13,7 @@ This site is under construction! -->
 {: .fs-6 .fw-300 }
 
 {: .green }
-**This is the student-facing course website for the 2023-24 offering of the capstone sequence. See [dsc-capstone.org](https://dsc-capstone.org) for more general information.**
+**This is the student-facing course website for the 2024-25 offering of the capstone sequence. See [dsc-capstone.org](https://dsc-capstone.org) for more general information.**
 
 ### Winter 2025 Schedule
 
