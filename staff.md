@@ -21,9 +21,5 @@ See the [Office Hours](../office-hours) page for the office hours schedule. **If
 {% if num_teaching_assistants != 0 %}
 
 ## Teaching Assistants
----
-{% for staffer in teaching_assistants %}
-{{ staffer }}
-{% endfor %}
-{% endif %}
----
+
+## TBD
