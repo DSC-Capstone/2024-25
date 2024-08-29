@@ -27,12 +27,12 @@ There are several action items mentioned throughout this page; they are summariz
 - [ ] Check the [**enrollment page**](https://dsc-capstone.org/enrollment) to see when and where your section is being held. If you're teaching in-person, the location of the new HDSI building can be found [here](https://map.concept3d.com/?id=1005#!m/246301).
 - [ ] Use [**this sheet**](https://docs.google.com/spreadsheets/d/1OnpqtAaOM8ot4emeqBYCsVQc59rFdBvUWDDlIf7eN7Y/edit?gid=738138438#gid=738138438) to find your students' names and emails. (Let the instructor know if you don't have access to the sheet.)
   - [ ] Send an email introducing yourself to your students, asking them to complete any pertinent tasks, and reminding them that the first meeting is **the week of Monday, Sept 30th**.
-  - [ ] **If you're teaching a remote section, send your Zoom link to your students asap.**
+  - [ ] **If you're teaching a remote section, send your Zoom link to your students asap and keep the instructor in the loop**
   - [ ] Choose when to hold an hour of weekly office hours (outside of your discussion time) and share it with your students. (Note that we have not booked physical spaces for office hours – if you'd like additional physical rooms booked, let the instructor know.)
   - [ ] (Optional) Create a [website](#websites) or Drive folder for your section and share it with your students. If you'd like your website to be linked on the [enrollment page](https://dsc-capstone.org/enrollment), let the instructor know.
   - [ ] (Optional) Create a Slack/Discord/Ed group for your section and share it with your students.
 
-**Remember that sections begin the week of Monday, September 30th (Week 1).** For those meeting on those days that are holidays (Veteran's day or Thanksgiving), please reschedule your sessions in those weeks with sufficient advance notice. 
+**Remember that sections begin the week of Monday, September 30th (Week 1).** If you are meeting on days that are holidays (such as Veteran's day or Thanksgiving), please reschedule your sessions in those weeks with sufficient advance notice. 
 
 ---
 
