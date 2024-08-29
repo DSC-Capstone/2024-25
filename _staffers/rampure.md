@@ -1,15 +1,11 @@
 ---
-name: Suraj Rampure
+name: Umesh Bellur
 role: Instructor
-email: rampure@ucsd.edu
+email: ubellur@ucsd.edu
 pronouns: he/him
-website: https://rampure.org
-photo: ../../assets/staff-images/rampure.png
-current: Lecturer, Halıcıoğlu Data Science Institute
-education: MS, Electrical Engineering and Computer Sciences, UC Berkeley
-hometown: Windsor, Ontario, Canada
-askabout: Credit card points and <a href="https://my.flightradar24.com/surajrampure">traveling</a>, my dog back home, the Lakers, my academic journey, and <a href="https://rampure.org/assets/me_dancing.gif">this</a>
-food: Menya Ultra, Tacos El Gordo, DJK, Charminar, Koon Thai, Bangkok Bay, SomiSomi
-foodemoji: 🍜
+website:
+photo: ../../assets/staff-images/ub-highres-small.jpg
+current: Visiting Professor, Halıcıoğlu Data Science Institute
+education: Ph.D., ECE, Syracuse University
 ---
 
