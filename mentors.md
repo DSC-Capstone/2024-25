@@ -38,7 +38,7 @@ There are several action items mentioned throughout this page; they are summariz
 
 ## Introduction
 
-The capstone program is a **two-quarter sequence** (Fall 2023 and Winter 2024) in which you, a domain expert, act as a mentor for student projects. You will host a single domain of inquiry, in which 4-10 students are enrolled, and within your domain, students will form project teams of 2-4. This means that ultimately your domain will consist of 1-5 teams, each of which are working on different projects that relate to your domain. We've structured the capstone program in this way to ensure that:
+The capstone program is a **two-quarter sequence** (Fall 2024 and Winter 2025) in which you, a domain expert, act as a mentor for student projects. You will host a single domain of inquiry, in which 4-10 students are enrolled, and within your domain, students will form project teams of 2-4. This means that ultimately your domain will consist of 1-5 teams, each of which are working on different projects that relate to your domain. We've structured the capstone program in this way to ensure that:
 - there are adequate guard-rails for students new to independent work,
 - students have material to follow and learn from when developing their own work, and
 - the scope of projects remain manageable for the time frame and appropriate for the level of the students.
@@ -46,7 +46,7 @@ The capstone program is a **two-quarter sequence** (Fall 2023 and Winter 2024) i
 Students were shown the domain topics and descriptions that you provided [here](https://dsc-capstone.org/enrollment) in advance of the enrollment period and have already enrolled at this point. They are free to change the domain they are enrolled in during Week 1, but space is limited.
 
 {: .blue }
-To help you calibrate your expectations, you should look at [last year's projects](https://dsc-capstone.org/showcase-23) if you haven't already.
+To help you calibrate your expectations, you should look at [last year's projects](https://dsc-capstone.org/showcase-24) if you haven't already.
 
 ---
 
@@ -56,13 +56,13 @@ As mentioned above, the capstone program spans two quarters. In both quarters, t
 
 | Quarter | Domain | Methodology |
 | --- | --- | --- |
-| 1 (Fall 2023) | Getting students up to speed in the domain by working on a guided project | Software development, reproducibility, environment independence |
-| 2 (Winter 2024) | Working on an original project | Project management, effective communication skills |
+| 1 (Fall 2024) | Getting students up to speed in the domain by working on a guided project | Software development, reproducibility, environment independence |
+| 2 (Winter 2025) | Working on an original project | Project management, effective communication skills |
 
 ### Domain-Specific Instruction
 
-- **Quarter 1 (Fall 2023)** is designed to provide students an opportunity to acquaint themselves with a domain by working through a guided project that you prescribe. This constitutes their **Quarter 1 Project**. Often times, this involves replicating an existing paper, but you're free to guide your students however you see fit. During Quarter 1, students also form project groups and write/present proposals for their final project, known as the **Quarter 2 Project**.
-- **Quarter 2 (Winter 2024)** is when students execute their Quarter 2 Project.
+- **Quarter 1 (Fall 2024)** is designed to provide students an opportunity to acquaint themselves with a domain by working through a guided project that you prescribe. This constitutes their **Quarter 1 Project**. Often times, this involves replicating an existing paper, but you're free to guide your students however you see fit. During Quarter 1, students also form project groups and write/present proposals for their final project, known as the **Quarter 2 Project**.
+- **Quarter 2 (Winter 2025)** is when students execute their Quarter 2 Project.
 
 Throughout both quarters, you will hold an hour per week of discussion section. Students are required to attend these synchronous section meetings.
 - In Quarter 1, this hour should be spent answering questions students have on the readings and tasks you provide them with.
@@ -74,7 +74,7 @@ You will also hold one hour per week of office hours throughout both quarters. M
 
 The methodology component of the program is designed to equip students with the skills they'll need to execute their projects. This includes accessing servers, executing long-running jobs, and project management. You can see the full schedule on the [homepage](../) of this website.
 
-Aside from on the first Monday of the quarter, when Suraj will be holding a live introductory lecture, methodology content will be delivered asynchronously in the form of readings. Many of the methodology lectures will have accompanying methodology assignments (e.g. accessing DSMLP, creating a Docker image, writing a document in LaTeX).
+Aside from on the first Monday of the quarter, when the instructor will be holding a live introductory lecture, methodology content will be delivered asynchronously in the form of readings. Many of the methodology lectures will have accompanying methodology assignments (e.g. accessing DSMLP, creating a Docker image, writing a document in LaTeX).
 
 The methodology team (instructor + TAs) will hold several weekly office hours. These are designed for students to get help with methodology lectures and assignments, and to ask infrastructure-related questions about their projects.
 
@@ -219,7 +219,7 @@ If any changes are necessary to the above rubric for a particular assignment, we
 
 Final grades will be computed using the grade-points above, using the
 proportions given in the course components table. Letter grades will
-be assigned using the standard university cutoffs. At the end of Fall 2023 students will receive a grade in DSC 180A, and at the end of Winter 2024 they will receive a grade in DSC 180B; each course is worth 4 units.
+be assigned using the standard university cutoffs. At the end of Fall 2024 students will receive a grade in DSC 180A, and at the end of Winter 2024 they will receive a grade in DSC 180B; each course is worth 4 units.
 
 ### Technology
 
