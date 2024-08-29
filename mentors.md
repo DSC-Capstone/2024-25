@@ -25,14 +25,14 @@ This page contains all of the information you need to know as a domain mentor. C
 There are several action items mentioned throughout this page; they are summarized here.
 
 - [ ] Check the [**enrollment page**](https://dsc-capstone.org/enrollment) to see when and where your section is being held. If you're teaching in-person, the location of the new HDSI building can be found [here](https://map.concept3d.com/?id=1005#!m/246301).
-- [ ] Use [**this sheet**](https://docs.google.com/spreadsheets/d/1HgUoFgO-PoyNKsHSCt4Rxjnh1X1CsyHTccKghtzRI1o/edit#gid=738138438) to find your students' names and emails. (Let Suraj know if you don't have access to the sheet.)
+- [ ] Use [**this sheet**](https://docs.google.com/spreadsheets/d/1OnpqtAaOM8ot4emeqBYCsVQc59rFdBvUWDDlIf7eN7Y/edit?gid=738138438#gid=738138438) to find your students' names and emails. (Let the instructor know if you don't have access to the sheet.)
   - [ ] Send an email introducing yourself to your students, asking them to complete any pertinent tasks, and reminding them that the first meeting is **the week of Monday, October 2nd**.
-  - [ ] **If you're teaching a remote section, send your Zoom link to your students by this weekend.**
-  - [ ] Choose when to hold an hour of weekly office hours (outside of your discussion time) and share it with your students. (Note that we have not booked physical spaces for office hours – if you'd like additional physical rooms booked, let Suraj know.)
-  - [ ] (Optional) Create a [website](#websites) or Drive folder for your section and share it with your students. If you'd like your website to be linked on the [enrollment page](https://dsc-capstone.org/enrollment), let Suraj know.
+  - [ ] **If you're teaching a remote section, send your Zoom link to your students asap.**
+  - [ ] Choose when to hold an hour of weekly office hours (outside of your discussion time) and share it with your students. (Note that we have not booked physical spaces for office hours – if you'd like additional physical rooms booked, let the instructor know.)
+  - [ ] (Optional) Create a [website](#websites) or Drive folder for your section and share it with your students. If you'd like your website to be linked on the [enrollment page](https://dsc-capstone.org/enrollment), let the instructor know.
   - [ ] (Optional) Create a Slack/Discord/Ed group for your section and share it with your students.
 
-**Remember that sections begin the week of Monday, October 2nd (Week 1).** Friday sections will have to reschedule in Week 6 due to Veterans Day; plans for the week of Thanksgiving will be announced later.
+**Remember that sections begin the week of Monday, September 30th (Week 1).** For those meeting on those days that are holidays (Veteran's day or Thanksgiving), please reschedule your sessions in those weeks with sufficient advance notice. 
 
 ---
 
@@ -52,7 +52,7 @@ To help you calibrate your expectations, you should look at [last year's project
 
 ## Program Overview
 
-As mentioned above, the capstone program spans two quarters. In both quarters, there are two components to the capstone: domain-specific instruction (provided by you) and methodology-specific instruction (provided by Suraj and the DSC 180AB TAs).
+As mentioned above, the capstone program spans two quarters. In both quarters, there are two components to the capstone: domain-specific instruction (provided by you) and methodology-specific instruction (provided by the instructor and the DSC 180AB TAs).
 
 | Quarter | Domain | Methodology |
 | --- | --- | --- |
@@ -123,13 +123,13 @@ The easiest way to create a website of your own is to clone one of the websites 
 - Many follow Aaron Fraenkel's site; you can fork it from [here](https://github.com/afraenkel/capstone-malware-domain). Make sure to enable GitHub Pages.
 - Kyle Shannon's [site](https://kshannon.github.io/ucsd-dsc180/) this year is also excellent; you can fork it from [here](https://github.com/kshannon/ucsd-dsc180).
 
-Note that it's not _required_ to create a website; you may choose to share information with students in other ways, like a Google Drive folder. If you create a website and want to link it at [dsc-capstone.org/enrollment](https://dsc-capstone.org/enrollment) for posterity or visibility, let Suraj know.
+Note that it's not _required_ to create a website; you may choose to share information with students in other ways, like a Google Drive folder. If you create a website and want to link it at [dsc-capstone.org/enrollment](https://dsc-capstone.org/enrollment) for posterity or visibility, let the instructor know.
 
 ---
 
 ## Quarter 1 Logistics
 
-Here, you'll find details on how each relevant component of the capstone works. Each week, you will receive an email from Suraj with a brief summary of what students should be working on that week and with any relevant updates (deadlines, changes to the schedule, new action items, etc).
+Here, you'll find details on how each relevant component of the capstone works. Each week, you will receive an email from the instructor with a brief summary of what students should be working on that week and with any relevant updates (deadlines, changes to the schedule, new action items, etc).
 
 ### Weekly Discussions
 
@@ -168,7 +168,7 @@ You should require that students meet with you in office hours every ~3 weeks in
 
 Plan to be available for at least one hour per week **outside** of your regularly-scheduled discussion section. This can be a synchronous hour, either in-person* or on Zoom, or can be an hour where you promise students you'll be immediately available via email/Slack/Zoom to answer questions. If students are unable to meet with you during your regularly scheduled office hours, you may need to meet with them by appointment.
 
-*_Note that we have not booked physical spaces for office hours – if you’d like additional physical rooms booked, let Suraj know._
+*_Note that we have not booked physical spaces for office hours – if you’d like additional physical rooms booked, let the instructor know._
 
 ### Assignments
 
@@ -184,7 +184,7 @@ All assignments in the course are generic, designed to work for most domains out
 
 **Forming Groups**
 
-- Students' Quarter 2 (i.e. final) Projects **must** be completed in groups of 2-4. Individual projects will be allowed only by exception; to work alone, a student must meet with both their mentor and Suraj to justify why they should be permitted to work outside of a group.
+- Students' Quarter 2 (i.e. final) Projects **must** be completed in groups of 2-4. Individual projects will be allowed only by exception; to work alone, a student must meet with both their mentor and the instructor to justify why they should be permitted to work outside of a group.
 - How the Quarter 2 groups are formed is up to you; you can divide your students into groups yourself or have them self-organize. Quarter 2 Project groups will need to be finalized around Week 8 of Quarter 1.
 - With that said, students' Quarter 1 Projects can either be done individually or in groups; this is up to you. Possible strategies:
   - Have all students work on their Quarter 1 Projects individually. (If you do this, you should stress that each one of their submissions should look different.) When it is time to form Quarter 2 Project groups, assign students to groups.
@@ -225,9 +225,9 @@ be assigned using the standard university cutoffs. At the end of Fall 2024 stude
 
 There are a few platforms to be aware of.
 
-- **Gradescope:** This is where students will submit all of their work and where you will do any necessary grading. We are not using Canvas at all this quarter. You should have already been added to the DSC 180A Gradescope; let Suraj know if not. Any time you need to grade something, you'll be sent a direct link to the assignment you need to grade, with instructions on how to access the work of just your students.
+- **Gradescope:** This is where students will submit all of their work and where you will do any necessary grading. We are not using Canvas at all this quarter. You should have already been added to the DSC 180A Gradescope; let the instructor know if not. Any time you need to grade something, you'll be sent a direct link to the assignment you need to grade, with instructions on how to access the work of just your students.
 - **Ed:** This is the message board that methodology staff will use to communicate with students. You have been added as well so that you're aware of the announcements that students receive each week. You don't need to post anything there.
-- **Slack:** There is a Slack channel in which mentors can ask questions about how to run their domains; ask Suraj if you'd like to be added.
+- **Slack:** There is a Slack channel in which mentors can ask questions about how to run their domains; ask the instructor if you'd like to be added.
 
 As far as compute goes – alongside personal laptops, students will use the campus ITS [DSMLP
 Cluster](https://blink.ucsd.edu/faculty/instruction/tech-guide/dsmlp/index.html). This
