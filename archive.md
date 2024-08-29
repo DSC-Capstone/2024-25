@@ -8,6 +8,7 @@ nav_order: 9
 # 💾 Archive
 
 Projects from earlier years:
+- [2023-2024](https://dsc-capstone.github.io/showcase-24/)
 - [2022-2023](https://dsc-capstone.github.io/showcase-23/)
 - [2021-2022](https://dsc-capstone.github.io/projects-2021-2022/)
 - [2020-2021](https://dsc-capstone.github.io/projects-2020-2021/)
