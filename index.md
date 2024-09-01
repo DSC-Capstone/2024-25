@@ -17,22 +17,6 @@ This site is under construction! -->
 
 ** Note: This schedule is subject to change. We expect this schedule to stabilize by mid Sept for the Fall quarter and by mid-December for the Winter Quarter **
 
-### Winter 2025 Schedule
-
-| Week | Tasks<br><small>These are all in addition to [Weekly Participation Assignments](assignments/participation/q2), which are due on Sundays at 11:59PM. All groups must fill these out, no matter what other requirements your mentors give you.</small> |
-| --- | --- |
-| 1 | Read the [**Syllabus**](syllabus) and [**Quarter 2 Project**](assignments/projects/q2) specifications.<br>Start attending sections.<br>✅ <b style="color:green">Submit</b> your first [**Weekly Participation Assignment**](assignments/participation/q2) as a group by <b>Sunday, January 14th</b>; make sure to submit a PDF to Gradescope and, as a one time step, to share your Google Doc with us. |
-| 2 | Keep working!   |
-| 3 | [**Sign up for and attend your Week 3 TA Check-In**](assignments/projects/q2-week3-checkin). |
-| 4 | [**Sign up for an Ethics Check-In with Professor David Danks**](assignments/projects/q2-ethics-checkin). |
-| 5 | ✅ <b style="color:green">Submit</b> your [**report checkpoint**](assignments/projects/q2/report) and [**code checkpoint**](assignments/projects/q2/code) by <b>Sunday, February 11th</b>.<br>Attend an Ethics Check-In between February 6th and 16th. |
-| 6 | ✅ <b style="color:green">Submit</b> your [**poster checkpoint**](assignments/projects/q2/poster-presentation) by  <b>Sunday, February 18th</b>. |
-| 7 | ✅ <b style="color:green">Submit</b> your [**website checkpoint**](assignments/projects/q2/website) by  <b>Sunday, February 25th</b>.<br> <b>Update</b> your poster to follow the new [**branding guidelines**](assignments/projects/q2/poster-presentation#branding). |
-| 8 | Sign up for and attend a [**Week 8 TA Check-In**](assignments/projects/q2-week8-checkin), where you will present a dry run of your [**poster presentation**](assignments/projects/q2/poster-presentation).<br><b><a href="https://hdsishowcase.com">RSVP for your block at the showcase.</a></b> |
-| 9 | Keep working! |
-| 10 | ✅ <b style="color:green">Submit</b> your [**poster**](assignments/projects/q2/poster-presentation) by <b>Sunday, March 10th <a href="https://docs.google.com/forms/d/e/1FAIpQLSeMo9A12Bl4E6RDkCOJWCsrdRH7At0rDjemLRhMX2R2Y_vPAg/viewform">at this link</a></b>.<br>✅ <b style="color:green">Submit</b> your report, code, website, and contribution statement by <b>Thursday, March 14th</b>.<br><b><a href="https://edstem.org/us/courses/48541/discussion/4550660">Follow the instructions here to submit your work.</a></b><br>🗣️ <b style="color:#5080a6">Present</b> at the <b><a href="https://dsc-capstone.org/showcase-24">in-person capstone showcase Friday, March 15th from 11AM-2:30PM</a></b>. |
-
----
 
 ### Fall 2024 Schedule
 
@@ -121,3 +105,21 @@ This site is under construction! -->
         </tr>
     </tbody>
 </table>
+
+
+### Winter 2025 Schedule
+
+| Week | Tasks<br><small>These are all in addition to [Weekly Participation Assignments](assignments/participation/q2), which are due on Sundays at 11:59PM. All groups must fill these out, no matter what other requirements your mentors give you.</small> |
+| --- | --- |
+| 1 | Read the [**Syllabus**](syllabus) and [**Quarter 2 Project**](assignments/projects/q2) specifications.<br>Start attending sections.<br>✅ <b style="color:green">Submit</b> your first [**Weekly Participation Assignment**](assignments/participation/q2) as a group by <b>Sunday, January 14th</b>; make sure to submit a PDF to Gradescope and, as a one time step, to share your Google Doc with us. |
+| 2 | Keep working!   |
+| 3 | [**Sign up for and attend your Week 3 TA Check-In**](assignments/projects/q2-week3-checkin). |
+| 4 | [**Sign up for an Ethics Check-In with Professor David Danks**](assignments/projects/q2-ethics-checkin). |
+| 5 | ✅ <b style="color:green">Submit</b> your [**report checkpoint**](assignments/projects/q2/report) and [**code checkpoint**](assignments/projects/q2/code) by <b>Sunday, February 11th</b>.<br>Attend an Ethics Check-In between February 6th and 16th. |
+| 6 | ✅ <b style="color:green">Submit</b> your [**poster checkpoint**](assignments/projects/q2/poster-presentation) by  <b>Sunday, February 18th</b>. |
+| 7 | ✅ <b style="color:green">Submit</b> your [**website checkpoint**](assignments/projects/q2/website) by  <b>Sunday, February 25th</b>.<br> <b>Update</b> your poster to follow the new [**branding guidelines**](assignments/projects/q2/poster-presentation#branding). |
+| 8 | Sign up for and attend a [**Week 8 TA Check-In**](assignments/projects/q2-week8-checkin), where you will present a dry run of your [**poster presentation**](assignments/projects/q2/poster-presentation).<br><b><a href="https://hdsishowcase.com">RSVP for your block at the showcase.</a></b> |
+| 9 | Keep working! |
+| 10 | ✅ <b style="color:green">Submit</b> your [**poster**](assignments/projects/q2/poster-presentation) by <b>Sunday, March 10th <a href="https://docs.google.com/forms/d/e/1FAIpQLSeMo9A12Bl4E6RDkCOJWCsrdRH7At0rDjemLRhMX2R2Y_vPAg/viewform">at this link</a></b>.<br>✅ <b style="color:green">Submit</b> your report, code, website, and contribution statement by <b>Thursday, March 14th</b>.<br><b><a href="https://edstem.org/us/courses/48541/discussion/4550660">Follow the instructions here to submit your work.</a></b><br>🗣️ <b style="color:#5080a6">Present</b> at the <b><a href="https://dsc-capstone.org/showcase-24">in-person capstone showcase Friday, March 15th from 11AM-2:30PM</a></b>. |
+
+---
