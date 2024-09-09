@@ -44,8 +44,8 @@ Before the quarter begins:
     - If your section is being held on Zoom, your mentor should reach out to you before your first section with the link.
 - Note that there is only one live lecture this quarter, on Monday, October 2nd. All other methodology instruction will be provided asynchronously.
 - Make sure you can access the following sites; email the instructor if you can't:
-    -  [Gradescope](https://www.gradescope.com/courses/637426), where all assignments will be submitted.
-    - [Ed](https://edstem.org/us/courses/48541/discussion/), the discussion forum we will use for methodology. **All class-wide announcements will be sent here!**
+    -  [Gradescope](https://www.gradescope.com/courses/861851), where all assignments will be submitted.
+    - [Piazza](https://piazza.com/class/m0vk9il4ypf1ei), the discussion forum we will use for methodology. **All class-wide announcements will be sent here!**
 
 Note that we will not be using Canvas at all this quarter.
 
@@ -160,8 +160,8 @@ A few things to note before the quarter begins:
   - Make sure to enroll in your section ASAP if you haven't already, and to start participating from Day 1.
 - There are no new methodology lessons or assignments in Quarter 2. Everything you'll be required to submit will be in some way related to your Quarter 2 Project, and all deadlines are on the course homepage. There are, however, [Office Hours](../office-hours) held by the methodology TAs each week.
 - Make sure you can access the following sites; email the instructor if you can't:
-    - The **new** 2025 [Gradescope](https://www.gradescope.com/courses/697313), where all assignments will be submitted.
-    - We will use the same [Ed](https://edstem.org/us/courses/48541/discussion/) instance as we did in the fall. **All class-wide announcements will be sent here!**
+    - The **new** 2025 Gradescope (to be setup), where all assignments will be submitted.
+    - We will use the same [Piazza](https://piazza.com/class/m0vk9il4ypf1ei) instance as we did in the fall. **All class-wide announcements will be sent here!**
 
 ---
 
