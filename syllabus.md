@@ -114,7 +114,7 @@ The table below summarizes all the ways you will be assessed in Quarter 1.
 | [Quarter 2 Project Proposal](../assignments/projects/q2-proposal) | Proposal for final capstone project. Submitted in groups. | Week 9 | 15% | Graded by both methodology TAs (elevator pitch) and domain mentors (schedule + write-up) |
 
 {: .red }
-**Note that the table contains links to assignment descriptions; the Quarter 1 Project and Quarter 2 Project Proposal details are _tentative_, and won't be finalized until they are officially released. We will make Ed announcements when these components are finalized.**
+**Note that the table contains links to assignment descriptions; the Quarter 1 Project and Quarter 2 Project Proposal details are _tentative_, and won't be finalized until they are officially released. We will make Piazza announcements when these components are finalized.**
 
 ### General Rubric
 
