@@ -7,5 +7,12 @@ website:
 photo: ../../assets/staff-images/ub-highres-small.jpg
 current: Visiting Professor, Halıcıoğlu Data Science Institute, School of Computing, Information and Data Science
 education: Ph.D., ECE, Syracuse University
+
+current: Visiting Professor, HDSI, UCSD. Professor, CSE - IIT  Bombay
+hometown: Whereever I am. 
+research: Distributed systems, Blockchain, Serverless Clouds
+expertise: "Systems Engineering, Distributed Systems"
+askabout: Hiking, kayaking
+foodemoji: 🍞
 ---
 
