@@ -47,7 +47,7 @@ This site is under construction! -->
         <tr>
             <td>1</td>
             <td><a href="lessons/01">Servers I: Accessing DSMLP</a></td>
-            <td><a href="assignments/methodology/01">MA 1 (due Oct. 7)</a><br><a href="[https://forms.gle/nYiFEs3pYkpguZHU8]">Welcome Survey (due Oct. 7)</a></td>
+            <td><a href="assignments/methodology/01">MA 1 (due Oct. 7)</a><br><a href="https://forms.gle/nYiFEs3pYkpguZHU8">Welcome Survey (due Oct. 7)</a></td>
             <td></td>
             <td></td>
         </tr>
