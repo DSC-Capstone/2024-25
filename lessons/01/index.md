@@ -7,12 +7,12 @@ nav_exclude: true
 # Lesson 1 – Servers I: Accessing DSMLP
 {:.no_toc}
 
-All lectures will be delivered as readings that you complete on your own time. Post questions with the lesson [here](https://edstem.org/us/courses/48541/discussion/3558693).
+All lectures will be delivered as readings that you complete on your own time. Post questions on Piazza under the tag MA1. 
 
-Make sure to read this article before moving on to [Methodology Assignment 1](../../../assignments/methodology/01).
+Make sure to read this article before moving on to [Methodology Assignment 1](../../../assignments/methodology/01)
 
 {: .red }
-Make sure to also complete the [Welcome Survey](https://docs.google.com/forms/d/e/1FAIpQLSdZpdbeqKjmeAlUo5wQJLC2XF2E7xVbIrIHJjt4-lvmuP8F6g/viewform) and submit it with Methodology Assignment 1!
+Make sure to also complete the [Welcome Survey](https://forms.gle/cWiaAe8BaPjso27n9) and submit it with Methodology Assignment 1!
 
 ---
 
