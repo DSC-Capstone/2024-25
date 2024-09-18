@@ -19,5 +19,7 @@ See the [Office Hours](../office-hours) page for the office hours schedule. **If
 
 ## Teaching Assistants
 
-Coming soon
-
+{% assign tas = site.staffers | where: 'role', 'Teaching Assistant' %}
+{% for staffer in tas %}
+{{ staffer }}
+{% endfor %}
