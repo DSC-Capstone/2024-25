@@ -18,6 +18,6 @@ If you'd like to meet with someone and can't make it to their office hours, feel
 
 | Who | Office Hours | 
 | ----|--------------|
-| Umesh | Wednesday 2-3pm, Monday 3-4pm |
+| Umesh | Monday 3-4pm, Wednesday 2-3pm |
 
 
