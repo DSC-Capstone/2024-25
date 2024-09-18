@@ -9,7 +9,7 @@ nav_exclude: true
 
 All lectures will be delivered as readings that you complete on your own time. Post questions on Piazza under the tag MA1. 
 
-Make sure to read this article before moving on to <a href="../../../2024-25/assignments/methodology/01">Methodology Assignment 1 (due Oct. 7)</a>
+Make sure to read this article before moving on to <a href="/assignments/methodology/01">Methodology Assignment 1 (due Oct. 7)</a>
 {: .red }
 Make sure to also complete the [Welcome Survey](https://forms.gle/cWiaAe8BaPjso27n9) and submit it with Methodology Assignment 1!
 
