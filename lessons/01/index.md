@@ -96,12 +96,12 @@ Here, we will cover the basics of accessing DSMLP. For more advanced usage, see 
 
 Let's start with the basics.
 
-| **Step 1**: Open your Terminal and run `ssh <username>@dsmlp-login.ucsd.edu`, where `<username>` is replaced with your official UCSD username. For instance, Suraj would run `ssh srampure@dsmlp-login.ucsd.edu`. Enter your password when prompted. |
+| **Step 1**: Open your Terminal and run `ssh <username>@dsmlp-login.ucsd.edu`, where `<username>` is replaced with your official UCSD username. For instance, Umesh would run `ssh ubellur@dsmlp-login.ucsd.edu`. Enter your password when prompted. |
 
 If you did this correctly, you will likely see a message that's something along the lines of
 
 ```
-Hello srampure, you are currently logged into dsmlp-login.ucsd.edu
+Hello ubellur, you are currently logged into dsmlp-login.ucsd.edu
 
 You are using 0% CPU on this system
 ```
@@ -127,10 +127,10 @@ Once you've run the launch script, you now have access to a computer with the re
 
 ### Jupyter Notebooks and DSMLP
 
-After running the launch script, you should see a link to a Jupyter Notebook at the very bottom of your Terminal window. For instance:
+After running the launch script, you should see a link to a Jupyter Notebook at the very bottom of your Terminal window. For instance, in the case of the user ubellur:
 
 ```
-You may access your Jupyter notebook at: http://dsmlp-login.ucsd.edu:12733/user/srampure/?token=ce5cfea8c9a8892593868b91ddc55b21ff61220989eb17d6ee303c6604609009
+You may access your Jupyter notebook at: http://dsmlp-login.ucsd.edu:12733/user/ubellur/?token=ce5cfea8c9a8892593868b91ddc55b21ff61220989eb17d6ee303c6604609009
 ```
 
 If you copy the link that you see in your Terminal and try to open it in your web browser, you will likely get an error. To access this Jupyter Notebook, you need to follow one of the following two options.
@@ -140,7 +140,7 @@ If you copy the link that you see in your Terminal and try to open it in your we
 Let's take a closer look at the example link provided above.
 
 ```
-http://dsmlp-login.ucsd.edu:12733/user/srampure/?token=ce5cfea8c9a8892593868b91ddc55b21ff61220989eb17d6ee303c6604609009
+http://dsmlp-login.ucsd.edu:12733/user/ubellur/?token=ce5cfea8c9a8892593868b91ddc55b21ff61220989eb17d6ee303c6604609009
 ```
 
 Here, there are two components:
@@ -150,8 +150,8 @@ Here, there are two components:
 Now, **open a new Terminal window on your personal computer**, without closing the old one. This step is crucial – make sure that the name at the start of your command prompt is your personal computer's name, not your username on the server. In that new Terminal window:
 
 1. Enter the command `ssh -N -L 8889:dsmlp-login.ucsd.edu:<port> <user>@dsmlp-login.ucsd.edu`.
-    - For instance, Suraj might enter `ssh -N -L 8889:dsmlp-login.ucsd.edu:12733 srampure@dsmlp-login.ucsd.edu`.
-2. After entering your password, if you see nothing, you're on the right track. Open `http://localhost:8889/user/<username>/tree/` **on your personal computer**, again with `<username>` replaced with your own username (say, `srampure`) When prompted for a "Password or token", enter the token you just found. You should then be good to go!
+    - For instance, Umesh might enter `ssh -N -L 8889:dsmlp-login.ucsd.edu:12733 ubellur@dsmlp-login.ucsd.edu`.
+2. After entering your password, if you see nothing, you're on the right track. Open `http://localhost:8889/user/<username>/tree/` **on your personal computer**, again with `<username>` replaced with your own username (say, `ubellur`) When prompted for a "Password or token", enter the token you just found. You should then be good to go!
     - If you change `tree` to `lab` in the URL, you'll be brought to Jupyter Lab, the latest version of the Jupyter Notebooks interface. Jupyter Lab is an IDE, complete with a Terminal and text editor.
     - If you see an error message saying `channel 2: open failed: connect failed: Connection refused`, you are likely entering the wrong port number or the same port is being used elsewhere on your computer, like in another Terminal window.
 3. To disconnect:
@@ -179,7 +179,7 @@ Finally, just as you can set up SSH keys for DSMLP, you can also set them up for
 
 **Option 2: Using `scp`**
 
-The bash command `scp` allows you to transfer files to/from a remote server. For example, `scp dog.txt srampure@dsmlp-login.ucsd.edu:test.txt` copies the file `dog.txt` from your local machine to Suraj's DSMLP drive. The video above gives a practical example, including a demonstration of how you might copy multiple files at once.
+The bash command `scp` allows you to transfer files to/from a remote server. For example, `scp dog.txt ubellur@dsmlp-login.ucsd.edu:test.txt` copies the file `dog.txt` from your local machine to Umesh's DSMLP drive. The video above gives a practical example, including a demonstration of how you might copy multiple files at once.
 
 ### Accessing Section-Specific Data
 
@@ -192,7 +192,7 @@ Here's how to launch a server on DSMLP in a way that you can access this section
 
 <center><img src="../../assets/images/team-login-1.png" width="75%"><br><i>This example is from Fall 2022, but the principle is the same.</i></center>
 
-**Note:** If you don't see the right team information at this step, contact Suraj.
+**Note:** If you don't see the right team information at this step, contact the instructor.
 
 3. Run `launch-scipy-ml.sh -W DSC180A_FA23_A00 -G <teamid>`, with `<teamid>` replaced with the Team ID you copied earlier. If you're in section A14 like in the example above, you'd run `launch-scipy-ml.sh -W DSC180A_FA23_A00 -G dsc180aa1488137100014352`.
 
