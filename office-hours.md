@@ -16,3 +16,8 @@ nav_order: 4
 
 If you'd like to meet with someone and can't make it to their office hours, feel free to send them an email to schedule an appointment; emails can be found on the [🙋 Staff](../staff) page.
 
+| Who | Office Hours | 
+| ----|--------------|
+| Umesh | Wednesday 2-3pm, Monday 3-4pm |
+
+
