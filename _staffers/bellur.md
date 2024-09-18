@@ -13,6 +13,6 @@ hometown: Whereever I am.
 research: Large Scale Distributed systems, Big Data, Distributed Ledgers, Serverless Clouds
 expertise: "Systems Engineering, Distributed Systems"
 askabout: Hiking, kayaking
-foodemoji: 🍞
+foodemoji: Foodie🍞
 ---
 
