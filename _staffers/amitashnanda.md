@@ -5,7 +5,7 @@ email: ananda@ucsd.edu
 pronouns: He/His/him
 website: https://github.com/amitashnanda/
 photo: https://dsc-capstone.org/2024-25/assets/staff-images/ananda.jpg
-office hours: Tue, Thu  11.00 AM - 12.00 PM
+office hours: Tue, Thu  12.00 - 1pm
 current: Ph.D. Student, Electrical and Computer Engineering (MLDS), UCSD
 education: MS ECE UCSD, B.Tech CET Bhubaneswar
 hometown: Rourkela, Odisha, India
