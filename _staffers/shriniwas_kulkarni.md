@@ -8,7 +8,7 @@ photo:
 office hours: Tue, Thu 2:20-3:10
 current: MS Student, Department of CS
 education: B.Tech EE IIT Bombay
-
+domains: A07, A08, A09, A10, A13, A14, B17
 current: MS Student, Department of CS
 hometown: Nashik, Maharashtra, India
 research: CV, Image Processing, Application of ML in Autonomous Systems/Game Theory
