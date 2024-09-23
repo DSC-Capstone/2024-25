@@ -4,7 +4,7 @@ role: Teaching Assistant
 email: s7kulkarni@ucsd.edu
 pronouns: he/him
 website: https://shrinivas-kulkarni9.github.io/
-photo:
+photo: https://dsc-capstone.org/2024-25/assets/staff-images/shriniwas_pro_pic_cropped.png
 office hours: Tue, Thu 2:20-3:10
 current: MS Student, Department of CS
 education: B.Tech EE IIT Bombay
