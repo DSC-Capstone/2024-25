@@ -51,7 +51,7 @@ This site is under construction! -->
             <td></td>
             <td></td>
         </tr>
-        <tr>
+<!--         <tr>
             <td>2</td>
             <td><a href="lessons/02">Servers II: GPUs and Background Tasks</a></td>
             <td rowspan=2></td>
@@ -102,7 +102,7 @@ This site is under construction! -->
             <td><a href="lessons/09">Project Management</a></td>
             <td></td>
             <td><a href="assignments/projects/q1">Q1 Project (due Dec. 2)</a><br><br><a href="assignments/projects/q2-proposal">Q2 Project Proposal (due Dec. 2nd)</a></td>
-        </tr>
+        </tr> -->
     </tbody>
 </table>
 
