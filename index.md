@@ -107,7 +107,7 @@ This site is under construction! -->
 </table>
 
 
-### Winter 2025 Schedule
+### Winter 2025 Schedule - Coming soon to a website near you!
 
 <table>
     <colgroup>
@@ -121,7 +121,7 @@ This site is under construction! -->
         </tr>
     </thead>
     <tbody> 
-        <tr>
+<!--         <tr>
             <td>1</td>
             <td>Read the <a href="https://dsc-capstone.org/2024-25/syllabus"> Syllabus </a> and <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2"> Quarter 2 Project</a> specifications.<br>Start attending sections.<br>✅ <b style="color:green">Submit</b> your first Weekly Participation Assignment as a group by <b>Sunday, January 12th</b>; make sure to submit a PDF to Gradescope and, as a one time step, to share your Google Doc with us.</td>
         </tr>
@@ -160,7 +160,7 @@ This site is under construction! -->
         <tr>
             <td>10</td>
             <td>✅ <b style="color:green">Submit</b> your <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2/poster-presentation">Poster</a> by <b>Sunday, March 9th <a href="https://docs.google.com/forms/d/e/1FAIpQLSeMo9A12Bl4E6RDkCOJWCsrdRH7At0rDjemLRhMX2R2Y_vPAg/viewform">at this link</a></b>.<br>✅ <b style="color:green">Submit</b> your report, code, website, and contribution statement by <b>Thursday, March 13th and attend the Showcase (to be announced)</b></td>
-        </tr>
+        </tr> -->
     </tbody>
 </table>
 
