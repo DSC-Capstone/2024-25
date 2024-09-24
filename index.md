@@ -37,6 +37,9 @@ This site is under construction! -->
         </tr>
     </thead>
     <tbody>
+        
+        [//]:
+        
         <tr>
             <td></td>
             <td>Live on Monday, Sept 30: <a href="https://docs.google.com/presentation/d/1ekVJK67mniCzxUEvNkPZwSd-AJqBZfhrmfaAhLOYoUY/edit?usp=sharing">Introduction</a> </td>
@@ -44,6 +47,9 @@ This site is under construction! -->
             <td></td>
             <td></td>
         </tr>
+        
+        [//]:
+        
         <tr>
             <td>1</td>
             <td><a href="lessons/01">Servers I: Accessing DSMLP</a></td>
@@ -52,7 +58,6 @@ This site is under construction! -->
             <td></td>
         </tr>
         <tr>
-            <!---
             <td>2</td>
             <td><a href="lessons/02">Servers II: GPUs and Background Tasks</a></td>
             <td rowspan=2></td>
@@ -104,7 +109,6 @@ This site is under construction! -->
             <td></td>
             <td><a href="assignments/projects/q1">Q1 Project (due Dec. 11)</a><br><br><a href="assignments/projects/q2-proposal">Q2 Project Proposal (due Dec. 2nd)</a></td>
         </tr>
-            ---!>
     </tbody>
 </table>
 
