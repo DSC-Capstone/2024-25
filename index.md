@@ -118,8 +118,6 @@ This site is under construction! -->
         <tr>
             <th>Week</th>
             <th colspan=2>Tasks<br><span style="font-weight:normal">These are all in addition to [Weekly Participation Assignments](https://dsc-capstone.org/2024-25/assignments/participation/q2), which are due on Sundays at 11:59PM. All groups must fill these out, no matter what other requirements your mentors give you.</span></th>
-            <th>Domain</th>
-            <th>Project</th>
         </tr>
     </thead>
     <tbody> 
@@ -130,6 +128,10 @@ This site is under construction! -->
         <tr>
             <td>2</td>
             <td>Keep working!</td>
+        </tr>
+        <tr>
+            <td> 3 </td>
+            <td>[**Sign up for and attend your Week 3 TA Check-In**](https://dsc-capstone.org/2024-25/assignments/projects/q2-week3-checkin).</td>
         </tr>
     </tbody>
 </table>
