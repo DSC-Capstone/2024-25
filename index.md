@@ -101,7 +101,7 @@ This site is under construction! -->
             <td>10</td>
             <td><a href="lessons/09">Project Management</a></td>
             <td></td>
-            <td><a href="assignments/projects/q1">Q1 Project (due Dec. 11)</a><br><br><a href="assignments/projects/q2-proposal">Q2 Project Proposal (due Dec. 2nd)</a></td>
+            <td><a href="assignments/projects/q1">Q1 Project (due Dec. 2)</a><br><br><a href="assignments/projects/q2-proposal">Q2 Project Proposal (due Dec. 2nd)</a></td>
         </tr>
     </tbody>
 </table>
