@@ -66,19 +66,19 @@ This site is under construction! -->
         <tr>
             <td>4</td>
             <td><a href="lessons/04">Effective Communication and Scientific Writing</a><br><small>featuring Prof. Benjamin Smarr</small></td>
-            <td><a href="assignments/methodology/02">MA 2 (due Oct. 31)</a></td>
-            <td><a href="assignments/projects/q1-week4-checkin">Week 4 TA Check-In (complete by Oct. 27)</a></td>
+            <td><a href="assignments/methodology/02">MA 2 (due Oct. 28th)</a></td>
+            <td><a href="assignments/projects/q1-week4-checkin">Week 4 TA Check-In (complete by Oct. 28th)</a></td>
         </tr>
         <tr>
             <td>5</td>
             <td><a href="lessons/05">Ethics and Values</a><br><small>by Prof. David Danks</small></td>
-            <td><a href="assignments/methodology/03">MA 3 (due Nov. 8)</a></td>
+            <td><a href="assignments/methodology/03">MA 3 (due Nov. 6th)</a></td>
             <td></td>
         </tr>
         <tr>
             <td>6</td>
             <td><a href="lessons/06">Git</a></td>
-            <td><a href="assignments/methodology/04">MA 4 (due Nov. 16)</a></td>
+            <td><a href="assignments/methodology/04">MA 4 (due Nov. 18th)</a></td>
             <td><a href="assignments/projects/q1">Q1 Project Checkpoint (due Nov. 6)</a></td>
         </tr>
         <tr>
@@ -94,14 +94,14 @@ This site is under construction! -->
         </tr>
         <tr>
             <td>9</td>
-            <td colspan=2><a href="assignments/methodology/06">Environments and Containerization (MA 6 due Dec. 13)</a></td>
-            <td><a href="assignments/projects/q1-week-9-10-checkin">Week 9/10 TA Check-In (complete by Dec. 5)</a></td>
+            <td colspan=2><a href="assignments/methodology/06">Environments and Containerization (MA 6 due Dec. 2nd)</a></td>
+            <td><a href="assignments/projects/q1-week-9-10-checkin">Week 9/10 TA Check-In (complete by Dec. 2 - preferably earlier)</a></td>
         </tr>
         <tr>
             <td>10</td>
             <td><a href="lessons/09">Project Management</a></td>
             <td></td>
-            <td><a href="assignments/projects/q1">Q1 Project (due Dec. 11)</a><br><br><a href="assignments/projects/q2-proposal">Q2 Project Proposal (due Dec. 11)</a></td>
+            <td><a href="assignments/projects/q1">Q1 Project (due Dec. 11)</a><br><br><a href="assignments/projects/q2-proposal">Q2 Project Proposal (due Dec. 2nd)</a></td>
         </tr>
     </tbody>
 </table>
