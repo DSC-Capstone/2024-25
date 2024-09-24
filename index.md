@@ -111,7 +111,7 @@ This site is under construction! -->
 
 | Week | Tasks<br><small>These are all in addition to [Weekly Participation Assignments](assignments/participation/q2), which are due on Sundays at 11:59PM. All groups must fill these out, no matter what other requirements your mentors give you.</small> |
 | --- | --- |
-| 1 | Read the [**Syllabus**](syllabus) and [**Quarter 2 Project**](assignments/projects/q2) specifications.<br>Start attending sections.<br>✅ <b style="color:green">Submit</b> your first [**Weekly Participation Assignment**](assignments/participation/q2) as a group by <b>Sunday, January 14th</b>; make sure to submit a PDF to Gradescope and, as a one time step, to share your Google Doc with us. |
+| 1 | Read the [**Syllabus**](syllabus) and [**Quarter 2 Project**](assignments/projects/q2) specifications.<br>Start attending sections.<br>✅ <b style="color:green">Submit</b> your first [**Weekly Participation Assignment**](assignments/participation/q2) as a group by <b>Sunday, January 12th</b>; make sure to submit a PDF to Gradescope and, as a one time step, to share your Google Doc with us. |
 | 2 | Keep working!   |
 | 3 | [**Sign up for and attend your Week 3 TA Check-In**](assignments/projects/q2-week3-checkin). |
 | 4 | [**Sign up for an Ethics Check-In with Professor David Danks**](assignments/projects/q2-ethics-checkin). |
