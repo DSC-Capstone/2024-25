@@ -37,14 +37,13 @@ This site is under construction! -->
         </tr>
     </thead>
     <tbody> 
-        <!--- <tr>
+        <tr>
             <td></td>
             <td>Live on Monday, Sept 30: <a href="https://docs.google.com/presentation/d/1ekVJK67mniCzxUEvNkPZwSd-AJqBZfhrmfaAhLOYoUY/edit?usp=sharing">Introduction</a> </td>
             <td></td>
             <td></td>
             <td></td>
-        </tr> ---!>
-
+        </tr>
         <tr>
             <td>1</td>
             <td><a href="lessons/01">Servers I: Accessing DSMLP</a></td>
