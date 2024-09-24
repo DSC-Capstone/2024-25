@@ -18,7 +18,7 @@ This site is under construction! -->
 ** Note: This schedule is subject to change. We expect this schedule to stabilize by end Sept for the Fall quarter and by mid-January for the Winter Quarter **
 
 
-[//]: ### Fall 2024 Schedule
+### Fall 2024 Schedule
 
 <table>
     <colgroup>
@@ -37,13 +37,13 @@ This site is under construction! -->
         </tr>
     </thead>
     <tbody>        
-        <tr>
-            <td></td>
-            <td>Live on Monday, Sept 30: <a href="https://docs.google.com/presentation/d/1ekVJK67mniCzxUEvNkPZwSd-AJqBZfhrmfaAhLOYoUY/edit?usp=sharing">Introduction</a> </td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
+        [//]: <tr>
+        [//]:   <td></td>
+        [//]:    <td>Live on Monday, Sept 30: <a href="https://docs.google.com/presentation/d/1ekVJK67mniCzxUEvNkPZwSd-AJqBZfhrmfaAhLOYoUY/edit?usp=sharing">Introduction</a> </td>
+        [//]:    <td></td>
+        [//]:    <td></td>
+        [//]:    <td></td>
+        [//]: </tr>
         <tr>
             <td>1</td>
             <td><a href="lessons/01">Servers I: Accessing DSMLP</a></td>
