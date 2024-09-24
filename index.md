@@ -117,13 +117,13 @@ This site is under construction! -->
     <thead class="header">
         <tr>
             <th>Week</th>
-            <th colspan=2>Tasks<br><span style="font-weight:normal">These are all in addition to [Weekly Participation Assignments](https://dsc-capstone.org/2024-25/assignments/participation/q2), which are due on Sundays at 11:59PM. All groups must fill these out, no matter what other requirements your mentors give you.</span></th>
+            <th colspan=2>Tasks<br><span style="font-weight:normal">These are all in addition to <a href="https://dsc-capstone.org/2024-25/assignments/participation/q2">Weekly Participation Assignment</a>, which are due on Sundays at 11:59PM. All groups must fill these out, no matter what other requirements your mentors give you.</span></th>
         </tr>
     </thead>
     <tbody> 
         <tr>
             <td>1</td>
-            <td>Read the [**Syllabus**](https://dsc-capstone.org/2024-25/syllabus) and [**Quarter 2 Project**](https://dsc-capstone.org/2024-25/assignments/projects/q2) specifications.<br>Start attending sections.<br>✅ <b style="color:green">Submit</b> your first [**Weekly Participation Assignment**](https://dsc-capstone.org/2024-25/assignments/participation/q2) as a group by <b>Sunday, January 12th</b>; make sure to submit a PDF to Gradescope and, as a one time step, to share your Google Doc with us.</td>
+            <td>Read the <a href="https://dsc-capstone.org/2024-25/syllabus"> Syllabus </a> and <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2"> Quarter 2 Project</a> specifications.<br>Start attending sections.<br>✅ <b style="color:green">Submit</b> your first Weekly Participation Assignment as a group by <b>Sunday, January 12th</b>; make sure to submit a PDF to Gradescope and, as a one time step, to share your Google Doc with us.</td>
         </tr>
         <tr>
             <td>2</td>
@@ -131,7 +131,7 @@ This site is under construction! -->
         </tr>
         <tr>
             <td> 3 </td>
-            <td>[**Sign up for and attend your Week 3 TA Check-In**](https://dsc-capstone.org/2024-25/assignments/projects/q2-week3-checkin).</td>
+            <td><a href="https://dsc-capstone.org/2024-25/assignments/projects/q2-week3-checkin">Sign up for and attend your Week 3 TA Check-In.</a></td>
         </tr>
     </tbody>
 </table>
