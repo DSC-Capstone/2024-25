@@ -226,7 +226,7 @@ be assigned using the standard university cutoffs. At the end of Fall 2024 stude
 There are a few platforms to be aware of.
 
 - **Gradescope:** This is where students will submit all of their work and where you will do any necessary grading. We are not using Canvas at all this quarter. You should have already been added to the DSC 180A Gradescope; let the instructor know if not. Any time you need to grade something, you'll be sent a direct link to the assignment you need to grade, with instructions on how to access the work of just your students.
-- **Ed:** This is the message board that methodology staff will use to communicate with students. You have been added as well so that you're aware of the announcements that students receive each week. You don't need to post anything there.
+- **Piazza:** This is the message board that methodology staff will use to communicate with students. You have been added as well so that you're aware of the announcements that students receive each week. You don't need to post anything there.
 - **Slack:** There is a Slack channel in which mentors can ask questions about how to run their domains; ask the instructor if you'd like to be added.
 
 As far as compute goes – alongside personal laptops, students will use the campus ITS [DSMLP
