@@ -8,7 +8,7 @@ nav_exclude: true
 # Quarter 1 Week 4 TA Check-In
 {:.no_toc}
 
-In Week 4 – that is, between Monday, October 23rd and Friday, October 27th – you are **required** to meet with your assigned TA **in-person** for 20 minutes. You can see your assigned TA on both the [**Enrollment**](https://dsc-capstone.org/enrollment) and [**Staff**](../../../staff) pages.
+In Week 4 – that is, between Monday, October 21st and Friday, October 25th – you are **required** to meet with your assigned TA **in-person** for 20 minutes. You can see your assigned TA on the [**Staff**](https://dsc-capstone.org/2024-25/staff) pages.
 
 The purpose of the check-in is to ensure that all students in the capstone have made sufficient progress in learning about their domain and to identify any potential barriers to making progress (e.g. technical troubles, lack of clarity or direction from mentor, interpersonal conflicts). Your TA will ask you the following questions:
 
