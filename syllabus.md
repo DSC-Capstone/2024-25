@@ -23,13 +23,13 @@ nav_order: 2
 
 ## Overview
 
-Welcome to the capstone program! The capstone program is a **two-quarter sequence** (Fall 2024 and Winter 2025) in which you will be mentored by a faculty or industry expert in their domain of expertise. By the end of Quarter 2, you will design and execute a project from that domain in teams of 2-4. You can see the projects from last year [here](https://dsc-capstone.github.io/showcase-24/), and from all prior years [here](../archive).
+Welcome to the capstone program! The capstone program is a **two-quarter sequence** (Fall 2024 and Winter 2025) in which you will be mentored by a faculty or industry expert(s) in their domain of expertise. By the end of Quarter 2, you will design and execute a project from that domain in teams of 2-4. You can see the projects from last year [here](https://dsc-capstone.github.io/showcase-24/), and from all prior years [here](../archive).
 
 At a high level, here's how the capstone program is organized:
-- In Quarter 1 (DSC 180A), you gain background information in your mentor's domain by working on a guided project (e.g. a paper replication). By the end of Quarter 1, not only will you have you completed a guided project (your "Quarter 1 Project"), but you will write a proposal for a more independent project (known as the "Quarter 2 Project", or the capstone project).
-- In Quarter 2 (DSC 180B), you execute the Quarter 2 Project you proposed at the end of Quarter 1.
+- In Quarter 1 (DSC 180A), you will gain background information in your chosen domain by working on a guided project (e.g. a paper replication) under the supervision of your mentor. By the end of Quarter 1, not only will you have you completed a guided project (your "Quarter 1 Project"), but you will write a proposal for a more independent project (known as the "Quarter 2 Project", or the capstone project).
+- In Quarter 2 (DSC 180B), you execute the Quarter 2 Project you proposed earlier in Quarter 1.
 
-Throughout Quarter 1, there is a "methodology" component that supplements your knowledge of your domain with best practices in software engineering, project management, and effective communication.
+Throughout Quarter 1, there is also a "methodology" component that supplements your knowledge of your domain with best practices in software engineering, project management, and effective communication.
 
 ---
 
@@ -40,9 +40,9 @@ Throughout Quarter 1, there is a "methodology" component that supplements your k
 Before the quarter begins:
 
 - Confirm the date and time of your discussion section on the [Enrollment](https://dsc-capstone.org/enrollment), as it may have been updated since you last checked.
-    - **Note that sections begin the week of Monday, September 30th (Week 1).** You must attend your discussion section each week.
+    - **Note that sections begin the week of Monday, September 30th** You must attend your discussion section each week.
     - If your section is being held on Zoom, your mentor should reach out to you before your first section with the link.
-- Note that there is only one live lecture this quarter, on Monday, Sept 30th from 3pm-3.50pm. All other methodology instruction will be provided asynchronously on this website. 
+- Note that there is **only one live lecture this quarter, on Monday, Sept 30th from 3pm-3.50pm**. All other methodology instruction will be provided asynchronously on this website. 
 - Make sure you can access the following sites; email the instructor if you can't:
     -  [Gradescope](https://www.gradescope.com/courses/861851), where all assignments will be submitted.
     - [Piazza](https://piazza.com/class/m0vk9il4ypf1ei), the discussion forum we will use for methodology. **All class-wide announcements will be sent here!**
@@ -53,9 +53,9 @@ Note that we will not be using Canvas at all this quarter.
 
 ## Course Components
 
-As mentioned in the [Overview](#overview), the primary goal of Quarter 1 is to get you acquainted with your mentor's domain. The main deliverable in Quarter 1 is the "Quarter 1 Project", which you will work on gradually throughout the quarter by completing the tasks that your mentor assigns you. The Quarter 1 Project is due at the end of the quarter, but a checkpoint is due on Monday, November 5th. to make sure you're on track.
+As mentioned in the [Overview](#overview), the primary goal of Quarter 1 is to get you acquainted with your mentor's domain. The main deliverable in Quarter 1 is the "Quarter 1 Project", which you will work on gradually throughout the quarter by completing the tasks that your mentor assigns you. The Quarter 1 Project is due at the end of the quarter, but a checkpoint is due on Monday, November 4th. to make sure you're on track.
 
-You will complete your Quarter 1 Project either individually or in groups, depending on your mentor's preferences. Your Quarter 1 Project will serve as a foundation for your Quarter 2 Project Proposal, which you will submit on Monday, December 11th. The Quarter 2 Project will be completed in groups of 2-4 throughout Quarter 2. 
+You will complete your Quarter 1 Project either individually or in groups, depending on your mentor's preferences. Your Quarter 1 Project will serve as a foundation for your Quarter 2 Project Proposal, which you will submit on Monday, December 2nd. The Quarter 2 Project will be completed in groups of 2-4 throughout Quarter 2. 
 
 Note: You may not get to choose who your "partners" are, as that may be up to your mentor; like in industry or academia, groups will be formed using a variety of
 factors, including academic background, mutual interests, and perhaps a little randomness.
@@ -71,19 +71,18 @@ Based on feedback from prior iterations of the capstone, we've decided to delive
 - Many methodology lessons will have an accompanying "methodology assignment", due the following Monday. See the [Assignments](#assignments-and-grades) section for more details.
 - The methodology TAs will hold office hours throughout the week to answer any questions with methodology content (or even your domain work, for that matter).
 
-Note that on **Monday, September 30th, we will hold a "traditional" introductory lecture during the scheduled lecture slots, and you should plan to attend**. The first methodology lesson will be released on Tuesday, October 1st.
+Note that on **Monday, September 30th, we will hold a "traditional" introductory lecture during the scheduled lecture slots, and you should plan to attend**. The first methodology lesson will also be released on Monday, September 30th.
 
 {: .red }
 **We will not be using the "lab" component of the course that appears on WebReg, nor will we be using the "lecture" component after Monday, Sept 30th.**
 
 ### Discussion (Domain)
 
-Each week, you will meet with your domain mentor for an hour in discussion section. You can see the time and location of your discussion meeting on the [Enrollment](https://dsc-capstone.org/enrollment) page.  **Attendance in discussion section is mandatory, and you must notify your mentor in advance if you can't make it in a particular week.** (If you have a permanent time conflict with your discussion section, you should switch to another domain.)
+Each week, you will meet with your domain mentor for an hour in discussion section. You can see the time of your discussion meeting on the [Enrollment](https://dsc-capstone.org/enrollment) page.  **Attendance in discussion section is mandatory, and you must notify your mentor in advance if you can't make it in a particular week.** 
 
 Each week, your domain mentor will assign you a combination of readings and tasks to complete, along with "participation" questions to answer to ensure that you've engaged with the material. You must complete these participation questions **24 hours before discussion**, as your responses to them will drive the class discussion. Your mentor may provide you with specific participation questions to answer; if not, you should answer [these](../assignments/participation/q1) "default" participation questions. You should complete the other tasks they assign you before discussion as well, though you may not have to submit them anywhere. Later in the quarter, you will brainstorm project proposals in discussion as well.
 
-Note that discussion section will consist of **discussion**, not lecture. As such, **if
-you do not ask questions in discussion section, no discussion will
+Note that discussion section will consist of **discussion**, not lecture. As such, **if you do not ask questions in discussion section, no discussion will
 occur.** To get the most out of the capstone program, you should actively participate in discussion section. In the workplace, you will often need to communicate with your coworkers and ask questions when you don't understand things, and the same is true here.
 
 
@@ -109,7 +108,7 @@ The table below summarizes all the ways you will be assessed in Quarter 1.
 |---|---|---|
 |[Methodology assignments](../) | Assignments that develop your software development and project management skills. Submitted individually. | There will be at least 5. If there are more than 5, only your highest 5 will be counted in your methodology grade. | 10% | 2% each |
 |Participation questions ([default questions](../assignments/participation/q1) or mentor-provided)| Weekly questions to keep you engaged with the material and to inform your mentor of class progress. Submitted individually. | Weekly, 24 hours before discussion | 5%| Graded for completeness by methodology TAs |
-|Overall participation | Engaging in conversation in discussion section is important for success in the capstone; as such, your mentor will assign you an overall participation grade at the end of the quarter. | N/A | 5%| Graded by mentors  |
+|Overall participation | Engaging in conversation in discussion section is important for success in the capstone; as such, your mentor will assign you an overall participation grade at the end of the quarter that the instructor will evaluate in light of your participation in instructor surveys before assigning a final grade | N/A | 5%| Graded by mentors and the instructor  |
 | [Quarter 1 Project](../assignments/projects/q1) | A chance to put together everything you've produced while learning about your domain. Submitted individually or in groups (up to mentor). | Week 5 (checkpoint), Week 10 (final submission) | 65% | 50%: reports, graded by mentors (checkpoint + final) <br><br> 15%: code, graded by methodology TAs (checkpoint + final; graded to ensure best practices are followed) |
 | [Quarter 2 Project Proposal](../assignments/projects/q2-proposal) | Proposal for final capstone project. Submitted in groups. | Week 9 | 15% | Graded by both methodology TAs (elevator pitch) and domain mentors (schedule + write-up) |
 
@@ -150,13 +149,13 @@ With all of that said, in this course, you should not worry about your letter gr
 ---
 # Quarter 2 (DSC 180B, Winter 2025)
 
-In Quarter 2, you will execute your [Quarter 2 Project](../assignments/projects/q2), the proposal for which you submitted at the end of Quarter 1. You will also prepare to present your work to a variety of audiences, in a variety of formats (most notably, as a poster at our [**in-person capstone showcase**](https://dsc-capstone.org/showcase-24) on Friday, March 15th).
+In Quarter 2, you will execute your [Quarter 2 Project](../assignments/projects/q2), the proposal for which you submitted at the end of Quarter 1. You will also prepare to present your work to a variety of audiences, in a variety of formats (most notably, as a poster at our **in-person capstone showcase** on Friday, March 14th).
 
 ## Getting Started
 
 A few things to note before the quarter begins:
 
-- Sections begin on Monday, January 8th. Confirm the date and time of your discussion section [here](https://docs.google.com/spreadsheets/d/1dCjs06QobZ3jrMBFIMeHYuqXDpGZHLZAxYUnraVQtNI/edit#gid=0).
+- Sections begin on Monday, January 6th. Confirm the date and time of your discussion section [here](https://docs.google.com/spreadsheets/d/1dCjs06QobZ3jrMBFIMeHYuqXDpGZHLZAxYUnraVQtNI/edit#gid=0).
   - Make sure to enroll in your section ASAP if you haven't already, and to start participating from Day 1.
 - There are no new methodology lessons or assignments in Quarter 2. Everything you'll be required to submit will be in some way related to your Quarter 2 Project, and all deadlines are on the course homepage. There are, however, [Office Hours](../office-hours) held by the methodology TAs each week.
 - Make sure you can access the following sites; email the instructor if you can't:
