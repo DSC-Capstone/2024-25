@@ -38,8 +38,8 @@ This site is under construction! -->
     </thead>
     <tbody> 
         <tr>
-            <td></td>
-            <td>Live on Monday, Sept 30: <a href="https://docs.google.com/presentation/d/1ekVJK67mniCzxUEvNkPZwSd-AJqBZfhrmfaAhLOYoUY/edit?usp=sharing">Introduction</a> </td>
+            <td>1</td>
+            <td>Live on Monday, Sept 30: <a href="https://docs.google.com/presentation/d/1ekVJK67mniCzxUEvNkPZwSd-AJqBZfhrmfaAhLOYoUY/edit?usp=sharing">Introduction</a><br><br>Read the <a href="https://dsc-capstone.org/2024-25/syllabus"> Syllabus</a> </td>
             <td></td>
             <td></td>
             <td></td>
