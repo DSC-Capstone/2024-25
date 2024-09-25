@@ -8,12 +8,9 @@ nav_exclude: true
 # 💍 Quarter 2 Project Proposal
 {:.no_toc}
 
-{: .green }
-**The specifications of the Quarter 1 Project have been finalized for Fall 2023.**
-
 As you know, your main deliverable throughout the capstone sequence is your Quarter 2 Project. In order to ensure that you'll be able to successfully execute your project, you're required to submit a detailed proposal.
 
-The proposal consists of three parts. The proposal is worth 15% of your DSC 180A grade; each component of the proposal is worth the same amount (5% of your DSC 180A grade). Below, we describe each component and its deliverables in more detail. **All components are due on Monday, December 11th at 11:59PM to Gradescope.**
+The proposal consists of three parts. The proposal is worth 15% of your DSC 180A grade; each component of the proposal is worth the same amount (5% of your DSC 180A grade). Below, we describe each component and its deliverables in more detail. **All components are due on Monday, December 2nd at 11:59PM to Gradescope.**
 
 ### Groups
 {:.no_toc}
@@ -32,7 +29,7 @@ As such, you are required to write a project proposal here, not just to better p
 ### Example Quarter 2 Projects
 {:.no_toc}
 
-As you start to think about your Quarter 2 work, it's a good idea to look at what students in your shoes last year were able to accomplish in the span of 10 weeks. Below, you'll find some selected examples, though you can see all of last year's projects at [dsc-capstone.org/showcase-23](https://dsc-capstone.org/showcase-23), and all capstone projects ever at [this sheet](https://docs.google.com/spreadsheets/d/1HJkTHUDJbfIPrPuMJ_DmWCvivxv5YU8Z_E8YCZao-84/edit#gid=511346602). You'll learn more about the specific deliverables you'll be required to produce in Quarter 2 in January (though you can read a draft of the full project spec [here](../q2) if you're curious); for now, just focus on the big picture.
+As you start to think about your Quarter 2 work, it's a good idea to look at what students in your shoes last year were able to accomplish in the span of 10 weeks. Below, you'll find some selected examples, though you can see all of last year's projects at [dsc-capstone.org/showcase-24](https://dsc-capstone.org/showcase-24), and all capstone projects ever at [this sheet](https://docs.google.com/spreadsheets/d/1HJkTHUDJbfIPrPuMJ_DmWCvivxv5YU8Z_E8YCZao-84/edit#gid=511346602). You'll learn more about the specific deliverables you'll be required to produce in Quarter 2 in January; for now, just focus on the big picture.
 
 - **BlockBazaar - Smart Contracts for Decentralized E-Commerce**<br>
   Matin Ghaffari, Yu Huang, Alan Amirian, Wenyuan Chen (Mentor: Sheffield Nolan from Franklin Templeton)<br>🪧 [Poster](https://drive.google.com/file/d/1qNdCDuVi9iCtT_K80sjAAzl3AlYuNww1/view?usp=drivesdk) • 🌐 [Website](https://wenyuanchen1326.github.io/BlockBazaar/) • 📖 [Report](https://drive.google.com/file/d/190sUeABNC-E0qooRXufQDKANdHkc-RxM/view?usp=drivesdk.pdf) • 💻 [Code](https://github.com/matin-g/Q2-DSC180B-A02)
