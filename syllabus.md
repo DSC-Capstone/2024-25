@@ -42,7 +42,7 @@ Before the quarter begins:
 - Confirm the date and time of your discussion section on the [Enrollment](https://dsc-capstone.org/enrollment), as it may have been updated since you last checked.
     - **Note that sections begin the week of Monday, September 30th (Week 1).** You must attend your discussion section each week.
     - If your section is being held on Zoom, your mentor should reach out to you before your first section with the link.
-- Note that there is only one live lecture this quarter, on Monday, October 2nd. All other methodology instruction will be provided asynchronously.
+- Note that there is only one live lecture this quarter, on Monday, Sept 30th from 3pm-3.50pm. All other methodology instruction will be provided asynchronously on this website. 
 - Make sure you can access the following sites; email the instructor if you can't:
     -  [Gradescope](https://www.gradescope.com/courses/861851), where all assignments will be submitted.
     - [Piazza](https://piazza.com/class/m0vk9il4ypf1ei), the discussion forum we will use for methodology. **All class-wide announcements will be sent here!**
