@@ -11,12 +11,12 @@ nav_exclude: true
 # Lesson 4 – Effective Communication and Scientific Writing
 {:.no_toc}
 
-All lectures will be delivered as readings that you complete on your own time. Post questions with the lesson on Ed.
+All lectures will be delivered as readings that you complete on your own time. Post questions with the lesson on Piazza.
 
-Make sure to read this article before moving on to [Methodology Assignment 2](../../../assignments/methodology/02), which is due on Tuesday, October 31st. In addition, this article will be crucial in writing the report (and its checkpoint) for your [Quarter 1 Project](../../../assigmments/projects/q1).
+Make sure to read this article before moving on to [Methodology Assignment 2](https://dsc-capstone.org/assignments/methodology/02), which is due on Tuesday, October 31st. In addition, this article will be crucial in writing the report (and its checkpoint) for your [Quarter 1 Project](https://dsc-capstone.org/assignments/assigmments/projects/q1).
 
 {: .red }
-**Remember, the [Quarter 1 Project Checkpoint](../../../assignments/projects/q1) is due on Monday, November 6th. The report part of your checkpoint submission will consist of the [title, abstract](#title-and-abstract), and [introduction](#introduction) of your Quarter 1 Project. These components are discussed in more detail below.**
+**Remember, the [Quarter 1 Project Checkpoint](https://dsc-capstone.org/assignments/assignments/projects/q1) is due on Monday, November 4th. The report part of your checkpoint submission will consist of the [title, abstract](#title-and-abstract), and [introduction](#introduction) of your Quarter 1 Project. These components are discussed in more detail below.**
 
 ---
 
