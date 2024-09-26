@@ -121,7 +121,7 @@ There are a variety of flags that you can use with a launch script; we covered a
 
 Once you've run the launch script, you now have access to a computer with the resources mentioned above! Note that the server runs Linux, so all of the command-line commands you use should work on Linux (not necessarily Windows or macOS). See the [Command-Line Cheat Sheet](https://dsc-capstone.org/2024-25/command-line) for more tips.
 
-<center><img src="https://i.sstatic.net/x0m7v.png" width="75%"></center>
+<center><img src="assets/x0m7v.png" width="75%"></center>
 
 <!-- **Note:** Both the initial jumpbox server and the server you launched have access to the same file system. If you're curious, run `ls` in the Terminal before launching the full server and after, and you'll see the same set of files. -->
 
