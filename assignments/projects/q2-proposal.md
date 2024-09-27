@@ -15,7 +15,7 @@ The proposal consists of three parts. The proposal is worth 15% of your DSC 180A
 ### Groups
 {:.no_toc}
 
-Quarter 2 Projects **must** be worked on in groups of 2-4; you cannot work individually. You must submit your proposal with the same group that you'll work on the project with. It is up to your mentor to determine how groups are formed; you should ask them how groups will be formed. You're required to sign up and attend the [**Week 9/10 TA Check-In**](https://dsc-capstone.org/2024-25/assignments/projects/q2/q1-week-9-10-checkin) in groups, so you should try and identify your group sooner rather than later.
+Quarter 2 Projects **must** be worked on in groups of 2-4; you cannot work individually. You must submit your proposal with the same group that you'll work on the project with. It is up to your mentor to determine how groups are formed; you should ask them how groups will be formed. You're required to sign up and attend the [**Week 9/10 TA Check-In**](https://dsc-capstone.org/2024-25/assignments/projects/q1-week-9-10-checkin) in groups, so you should try and identify your group sooner rather than later.
 
 ### Context
 {:.no_toc}
