@@ -10,9 +10,6 @@ nav_exclude: true
 
 _last updated Tuesday, January 9th, 2024_
 
-{: .green }
-**These specifications have been updated for Winter 2024. If any changes are made throughout the quarter, we'll send an announcement on Ed.**
-
 ---
 
 ## Overview
@@ -21,21 +18,21 @@ You will have to produce four main deliverables for your Quarter 2 Project. Each
 
 | | Checkpoint Due Date | Final Due Date |
 | --- |:---|:---|
-| [**Report**](report) | Sunday, February 11th | Thursday, March 14th |
-| [**Code**](code) | Sunday, February 11th | Thursday, March 14th |
-| [**Website**](website) | Sunday, February 25th | Thursday, March 14th |
-| [**Poster and Presentation**](poster-presentation) | Poster checkpoint due Sunday, February 18th<br>Presentation checkpoint delivered in Week 8 Check-In | Poster due Sunday, March 10th<br>Presentation will be at [**capstone showcase on Friday, March 15th**](https://dsc-capstone.org/showcase-24) |
+| [**Report**](report) | Sunday, February 8th | Monday, March 10th |
+| [**Code**](code) | Sunday, February 8th | Monday, March 10th |
+| [**Website**](website) | Sunday, February 23rd | Tuesday, March 12th |
+| [**Poster and Presentation**](poster-presentation) | Poster checkpoint due Sunday, February 16th<br>Presentation checkpoint delivered in Week 8 Check-In | Poster due Monday, March 10th<br>Presentation will be at [**capstone showcase on Friday, March 14th**](https://dsc-capstone.org/showcase-25) |
 
 {: .red }
 **Make sure to click and thoroughly read through all four pages linked in the first column of the table above!**
 
 Roughly speaking, you'll spend the first half of the quarter working on your project, and the second half preparing your deliverables and rehearsing your presentation. All deliverables have an accompanying checkpoint, which serve to ensure that you're on track to finish all components in time and to give you an opportunity to receive feedback from your mentor and methodology staff.
 
-All deliverables and checkpoints must be submitted as a group on Gradescope. The only component you will submit individually is a "contribution statement" towards the end of the quarter. Each deliverable will be graded using the same [A/B/C/F rubric](../../../syllabus#general-rubric) from Quarter 1; different group members _can_ end up with different grades for the same work, depending on the answers to the weekly [participation](../../participation/q2) questions and the contribution statement.
+All deliverables and checkpoints must be submitted as a group on Gradescope. The only component you will submit individually is a "contribution statement" towards the end of the quarter. Each deliverable will be graded using the same [A/B/C/F rubric](https://dsc-capstone.org/2024-25/syllabus#general-rubric) from Quarter 1; different group members _can_ end up with different grades for the same work, depending on the answers to the weekly [participation](https://dsc-capstone.org/2024-25/assignments/participation/q2) questions and the contribution statement.
 
-The deadlines for each deliverable and checkpoint are above and on the [course homepage](../../../). To reiterate, the most important dates are:
-  - **Friday, March 15th from 11AM-2:30PM**, which is when the [**in-person capstone showcase**](https://dsc-capstone.org/showcase-24) is. This will be attended by UCSD faculty and students, and HDSI industry partners. All capstone students will be required to present their poster either during the 11AM-12:30PM block or the 1-2:30PM block; we will assign groups to blocks sometime in February.
-  - **Sunday, March 10th at 11:59PM**, the deadline by which you must submit to us a PDF of the poster you will present at the capstone showcase. We are coordinating a bulk order with campus printing services and they may not be able to print your poster in time if we receive it any later than that. (You will not have to pay for your poster.)
+The deadlines for each deliverable and checkpoint are above and on the [course homepage](https://dsc-capstone.org/2024-25/). To reiterate, the most important dates are:
+  - **Friday, March 14th from 11AM-2:30PM**, which is when the [**in-person capstone showcase**](https://dsc-capstone.org/showcase-25) is. This will be attended by UCSD faculty and students, and HDSI industry partners. All capstone students will be required to present their poster either during the 11AM-12:30PM block or the 1-2:30PM block; we will assign groups to blocks sometime in February.
+  - **Sunday, March 9th at 11:59PM**, the deadline by which you must submit to us a PDF of the poster you will present at the capstone showcase. We are coordinating a bulk order with campus printing services and they may not be able to print your poster in time if we receive it any later than that. (You will not have to pay for your poster.)
 
 {: .note }
 DSC 180B is a 4-unit course, which per campus rules means you should expect to spend 12 hours per week on it total. Remember that your goal in DSC 180B is to produce a capstone project you'll be proud to show others and look back at in the future, _not_ just to receive an A.
@@ -51,7 +48,7 @@ Why so many deliverables? The idea is that your report, poster, and website all 
 - For your poster, your audience is industry partners, faculty, and pre-senior data science students. These individuals may know some details of the methods you're using, but won't necessarily have the background you have by taking DSC 80, 100, 102, 106, 140A, etc.
 - For your website, your audience is the general public.
 
-Before starting to work on any of these deliverables, read the rest of this page, in addition to rereading [Lesson 4](../../../lessons/04), on Effective Communication and Scientific Writing.
+Before starting to work on any of these deliverables, read the rest of this page, in addition to rereading [Lesson 4](https://dsc-capstone.org/2024-25/lessons/04), on Effective Communication and Scientific Writing.
 
 ### Knowing Your Audience
 
@@ -78,7 +75,7 @@ For each of the target audiences below, we'll discuss what you'll focus on in yo
 
 ### Providing Context
 
-In [Lesson 4](../../../lessons/04), we emphasized the importance of starting broad and gradually providing more details, when writing an introduction or providing an elevator pitch.
+In [Lesson 4](https://dsc-capstone.org/2024-25/lessons/04), we emphasized the importance of starting broad and gradually providing more details, when writing an introduction or providing an elevator pitch.
 
 <center><img src="https://simplyeducate.me//wp-content/uploads/2014/03/general-to-specific.png" width="40%"><br>(<a href="https://simplyeducate.me//wp-content/uploads/2014/03/general-to-specific.png">source</a>)</center>
 
@@ -86,7 +83,7 @@ In such cases, you should expect to spend **about 50%** of your time introducing
 
 The definition of "broad" depends on the audience. To a trained data scientist, "broad" might refer to how your project fits into your field, whereas to the general public, "broad" might refer to how your field fits into the world as a whole; you can't expect the general public to know much about your field a priori.
 
-In [Lesson 4](../../../lessons/04), we also introduced the related **context, content, conclusion** approach to structuring scientific communication. At the time, we brought this up in the context (no pun intended) of scientific papers, but it's also useful when structuring oral presentations and websites. This model allows you to bring your audience gently up to speed with your work – it's important to remember that they're just hearing about your work for the first time, and haven't spent the past few months working on it.
+In [Lesson 4](https://dsc-capstone.org/2024-25/lessons/04), we also introduced the related **context, content, conclusion** approach to structuring scientific communication. At the time, we brought this up in the context (no pun intended) of scientific papers, but it's also useful when structuring oral presentations and websites. This model allows you to bring your audience gently up to speed with your work – it's important to remember that they're just hearing about your work for the first time, and haven't spent the past few months working on it.
 
 - **Context**: Tell the audience what you are going to tell them – tell them why they should care.
 - **Content**: Tell them about your approach and results.
@@ -135,7 +132,7 @@ While you won't have the actual numbers yet, you can create placeholder graphs a
 
 ## Examples
 
-For inspiration, you may want to look at the deliverables produced by past capstone students – you can view last year's projects [here](https://dsc-capstone.org/showcase-23). Below, you'll find a few selected examples (the same ones we showed you in the Quarter 2 Project Proposal spec last quarter).
+For inspiration, you may want to look at the deliverables produced by past capstone students – you can view last year's projects [here](https://dsc-capstone.org/showcase-24). Below, you'll find a few examples from past capstone editions.
 
 - **BlockBazaar - Smart Contracts for Decentralized E-Commerce**<br>
   Matin Ghaffari, Yu Huang, Alan Amirian, Wenyuan Chen (Mentor: Sheffield Nolan from Franklin Templeton)<br>🪧 [Poster](https://drive.google.com/file/d/1qNdCDuVi9iCtT_K80sjAAzl3AlYuNww1/view?usp=drivesdk) • 🌐 [Website](https://wenyuanchen1326.github.io/BlockBazaar/) • 📖 [Report](https://drive.google.com/file/d/190sUeABNC-E0qooRXufQDKANdHkc-RxM/view?usp=drivesdk.pdf) • 💻 [Code](https://github.com/matin-g/Q2-DSC180B-A02)
