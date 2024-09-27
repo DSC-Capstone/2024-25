@@ -13,5 +13,5 @@ hometown: Rourkela, Odisha, India
 research: Continual Federated Learning, Distributed Learning, DNN/LLM Optimization, CV, Bioinformatics  
 expertise: "ML algorithms, optimization, modeling"
 askabout: San Diego cricket leauge player, Acting, Poetry, Gaming, Youtube/Twitch Streaming
-foodemoji: Indian, Japanese, Chinese
+foodemoji: Indian, Japanese, Chinese 🍞
 ---
