@@ -14,5 +14,5 @@ hometown: San Francisco, California
 research: Data Visualization, Intersection of Data Science and Biomedicine, NLP, Spatial Data
 expertise: Data Science in Biomedicine, Spatial Data 
 askabout: Baking, swimming, hiking
-foodemoji: Any delicious food :P
+foodemoji: Any delicious food 🍞
 ---
