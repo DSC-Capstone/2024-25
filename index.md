@@ -39,7 +39,7 @@ This site is under construction! -->
     <tbody> 
         <tr>
             <td>1</td>
-            <td>Live on Monday, Sept 30: <a href="https://docs.google.com/presentation/d/1ekVJK67mniCzxUEvNkPZwSd-AJqBZfhrmfaAhLOYoUY/pub?start=false&loop=false&delayms=5000">Introduction</a><br><br>Read the <a href="https://dsc-capstone.org/2024-25/syllabus"> Syllabus</a> </td>
+            <td>Live on Monday, Sept 30: <a href="https://docs.google.com/presentation/d/1ekVJK67mniCzxUEvNkPZwSd-AJqBZfhrmfaAhLOYoUY/pub?start=false&loop=false&delayms=5000">Introduction</a><br><br><a href="https://drive.google.com/file/d/1X1LGIn80L7E0EEJ4NomfrUyIU3kSdlhD/view?usp=sharing">Recording</a><br><br>Read the <a href="https://dsc-capstone.org/2024-25/syllabus"> Syllabus</a> </td>
             <td></td>
             <td></td>
             <td></td>
