@@ -11,7 +11,7 @@ nav_exclude: true
 # Lesson 2 – Servers II: GPUs and Background Tasks
 {:.no_toc}
 
-All lectures will be delivered as readings that you complete on your own time. This lesson contains two embedded videos; be sure to watch them. Post questions with the lesson [here](https://edstem.org/us/courses/48541/discussion/3619695).
+All lectures will be delivered as readings that you complete on your own time. This lesson contains two embedded videos; be sure to watch them. Post questions about the lesson [here](https://piazza.com/class/m0vk9il4ypf1ei/).
 
 There is no Methodology Assignment associated with this lesson.
 
@@ -33,7 +33,7 @@ In [Lesson 1](../01), you learned how to launch servers on DSMLP. More specifica
 1. Log onto the DSMLP jumpbox server.
 1. Choose a launch script, e.g. `launch.sh`, `launch-scipy-ml.sh`, or `launch-scipy-ml-gpu.sh`.
 1. Use flags to customize the launched container.
-  - You'll always use `-W DSC180A_FA23_A00` to tell DSMLP that you're a student in DSC 180A and want to see any DSC 180A-specific data.
+  - You'll always use `-W DSC180A_FA24_A00` to tell DSMLP that you're a student in DSC 180A and want to see any DSC 180A-specific data.
   - `-c` and `-m` stand for CPU and RAM, respectively. `-c 8 -m 32` will ask for 8 CPU cores and 32 GB of RAM. (The default for `launch-scipy-ml.sh` is 2 CPU cores and 8 GB of RAM.)
   - `-G list` will show you all teams you're a part of (e.g. A01).
   - `-h` will show you all possible flags.
