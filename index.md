@@ -31,7 +31,7 @@ This site is under construction! -->
     <thead class="header">
         <tr>
             <th>Week</th>
-            <th colspan=2>Methodology<br><span style="font-weight:normal">Lessons and assignments are released on Mondays.<br>Assignments are due on a week later on Mondays at 11:59PM.</span></th>
+            <th colspan=2>Methodology<br><span style="font-weight:normal">Lessons and assignments are released on Mondays.<br>Assignments are due on a week later on Mondays at 11:59PM.Participation Assignments are due on each Sunday by 11.59pm</span></th>
             <th>Domain</th>
             <th>Project</th>
         </tr>
