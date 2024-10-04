@@ -8,7 +8,7 @@ nav_exclude: true
 # Quarter 1 Week 9/10 TA Check-In
 {:.no_toc}
 
-In Week 9 – specifically, between Monday, November 25th and Friday, November 29th – you are **required** to meet with your assigned TA **in-person** for 30 minutes. You can see your assigned TA on  the  [**Staff**](https://dsc-capstone.org/2024-25/staff) pages.
+In Week 9 – specifically, between November 20th and November 26th – you are **required** to meet with your assigned TA **in-person** for 30 minutes. You can see your assigned TA on  the  [**Staff**](https://dsc-capstone.org/2024-25/staff) pages.
 
 There are a few goals for the second check-in of the quarter:
 1. To have all members of your group present a dry run of their [Elevator Pitch for the Quarter 2 Project Proposal](../q2-proposal#elevator-pitch). **Come prepared!**
