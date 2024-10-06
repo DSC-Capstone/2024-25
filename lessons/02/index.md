@@ -13,7 +13,7 @@ nav_exclude: true
 
 All lectures will be delivered as readings that you complete on your own time. This lesson contains two embedded videos; be sure to watch them. Post questions about the lesson [here](https://piazza.com/class/m0vk9il4ypf1ei/).
 
-There is no Methodology Assignment associated with this lesson.
+**There is no Methodology Assignment associated with this lesson.**
 
 ---
 
