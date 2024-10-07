@@ -154,7 +154,7 @@ Remember, discussions begin the week of Monday, October 2nd. Check [dsc-capstone
 
 **Participation Questions**
 
-In addition to the readings and tasks students are asked to complete each week, students must submit answers to participation questions 24 hours in advance of discussion, starting in Week 2. The questions are due well before discussion in order to allow you to use students' answers to structure your section, if you wish. We've created a "default" set of participation questions, linked [here](../assignments/participation/q1), that should apply to all domains. However, you're free to devise more specific questions for your domain. You're encouraged to look at past domain [websites](#websites) for examples of such questions.
+In addition to the readings and tasks students are asked to complete each week, students must submit answers to participation questions weekly by midnight on Sunday or at least 24 hours in advance of discussion (should you want that). The questions are due well before discussion in order to allow you to use students' answers to structure your section, if you wish. We've created a "default" set of participation questions, linked [here](../assignments/participation/q1), that should apply to all domains. However, you're free to devise more specific questions for your domain. You're encouraged to look at past domain [websites](#websites) for examples of such questions.
 
 ### Communication
 
