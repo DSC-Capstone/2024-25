@@ -55,7 +55,7 @@ This site is under construction! -->
             <td>2</td>
             <td><a href="lessons/02">Servers II: GPUs and Background Tasks</a></td>
             <td rowspan=2></td>
-            <td rowspan=9>Starting Week 2, <a href="assignments/participation/q1">Participation</a> questions are due Sunday evening by 11.59pm OR 24 hours before discussion meetings upon explicit mentor request.<br><br>These are in addition to any tasks or readings your mentor assigned you.</td>
+            <td rowspan=9>As before, <a href="assignments/participation/q1">Participation</a> questions are due Sunday evening by 11.59pm OR 24 hours before discussion meetings upon explicit mentor request.<br><br>These are in addition to any tasks or readings your mentor assigned you.</td>
             <td></td>
         </tr>
  <!--       <tr>
