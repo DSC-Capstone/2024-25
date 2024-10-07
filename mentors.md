@@ -179,7 +179,7 @@ All assignments in the course are generic, designed to work for most domains out
 | --- | --- | --- | --- | --- |
 | [Quarter 1 Project](../assignments/projects/q1) | Students work on a guided project (e.g. replication) in your domain | Individual or groups (up to domain mentors) | Week 5 (checkpoint), Week 10 (final submission) | Report is graded by domain mentors on Gradescope; code feedback given by methodology staff  | 
 | [Quarter 2 Project Proposal](../assignments/projects/q2-proposal) | Proposal for final project | Groups | Week 10 | Domain mentor |
-| [Participation Questions](#participation-questions) ([default questions](../assignments/participation/q1)) | Weekly questions to keep students engaged with the domain material  | Individual | Weekly, 24 hours before discussion | Methodology staff (completion only); domain mentors should read to inform how to run discussion |
+| [Participation Questions](#participation-questions) ([default questions](../assignments/participation/q1)) | Weekly questions to keep students engaged with the domain material  | Individual | Weekly, Sundays at midnight or at least 24 hours before discussion | Methodology staff (completion only); domain mentors should read to inform how to run discussion |
 | [Methodology Assignments](../) | Assignments that develop students' software development and project management skills. | Individual | Bi-weekly | Methodology staff |
 
 **Forming Groups**
