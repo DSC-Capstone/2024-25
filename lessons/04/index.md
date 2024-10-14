@@ -164,7 +164,7 @@ Watch [the video](https://www.youtube.com/watch?v=X9gbQ7pme1E) below, prepared b
 <center><iframe width="888" height="500" src="https://www.youtube.com/embed/X9gbQ7pme1E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 {: .red }
-**Remember, your [Quarter 1 Project Checkpoint](../../../assignments/projects/q1) submission will consist of both a report submission and code submission. Your report submission for the checkpoint should contain a working title, abstract, and introduction section. Watch the video above to help prepare!**
+**Remember, your [Quarter 1 Project Checkpoint](https://dsc-capstone.org/2024-25/assignments/projects/q1) submission will consist of both a report submission and code submission. Your report submission for the checkpoint should contain a working title, abstract, and introduction section. Watch the video above to help prepare!**
 
 ### Methods
 
