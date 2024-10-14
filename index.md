@@ -63,7 +63,6 @@ This site is under construction! -->
             <td><a href="lessons/03">Software Development for Data Science</a><br><small>Watch <a href="https://youtu.be/iXvBzLtI5Uk">this new video</a> on command-line arguments in Python!</small></td>
             <td></td>
             <td></td>
-            <td></td>
         </tr>
  <!--       <tr>
             <td>4</td>
