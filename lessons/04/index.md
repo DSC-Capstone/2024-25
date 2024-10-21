@@ -13,7 +13,7 @@ nav_exclude: true
 
 All lectures will be delivered as readings that you complete on your own time. Post questions with the lesson on Piazza.
 
-Make sure to read this article before moving on to [Methodology Assignment 2](https://dsc-capstone.org/2024-25/assignments/methodology/02), which is due on Tuesday, October 31st. In addition, this article will be crucial in writing the report (and its checkpoint) for your [Quarter 1 Project](https://dsc-capstone.org/2024-25/assignments/assigmments/projects/q1).
+Make sure to read this article before moving on to [Methodology Assignment 2](https://dsc-capstone.org/2024-25/assignments/methodology/02), which is due on Tuesday, October 31st. In addition, this article will be crucial in writing the report (and its checkpoint) for your [Quarter 1 Project](https://dsc-capstone.org/2024-25/assigmments/projects/q1).
 
 {: .red }
 **Remember, the [Quarter 1 Project Checkpoint](https://dsc-capstone.org/2024-25/assignments/projects/q1) is due on Monday, November 4th. The report part of your checkpoint submission will consist of the [title, abstract](#title-and-abstract), and [introduction](#introduction) of your Quarter 1 Project. These components are discussed in more detail below.**
@@ -143,7 +143,7 @@ To practice, read the following abstract, taken from _[Robust Learning from Disc
 
 > Recent work introduced the model of learning from discriminative feature feedback, in which a human annotator not only provides labels of instances, but also identifies discriminative features that highlight important differences between pairs of instances. It was shown that such feedback can be conducive to learning, and makes it possible to efficiently learn some concept classes that would otherwise be intractable. However, these results all relied upon perfect annotator feedback. In this paper, we introduce a more realistic, robust version of the framework, in which the annotator is allowed to make mistakes. We show how such errors can be handled algorithmically, in both an adversarial and a stochastic setting. In particular, we derive regret bounds in both settings that, as in the case of a perfect annotator, are independent of the number of features. We show that this result cannot be obtained by a naive reduction from the robust setting to the non-robust setting
 
-### 🎥 Introduction
+### Introduction
 
 The introduction sets the context for the rest of the paper. After the abstract, it is the first part of your paper that readers will read, and often the only thing they will read. Your introduction will start broad and become narrower and narrower as you add more detail.
 
