@@ -70,13 +70,13 @@ This site is under construction! -->
             <td><a href="assignments/methodology/02">MA 2 (due Oct. 27th)</a></td>
             <td><a href="assignments/projects/q1-week4-checkin">Week 4 TA Check-In (complete by Oct. 25th)</a></td>
         </tr>
-  <!--      <tr>
+        <tr>
             <td>5</td>
             <td><a href="lessons/05">Ethics and Values</a><br><small>by Prof. David Danks</small></td>
-            <td><a href="assignments/methodology/03">MA 3 (due Nov. 6th)</a></td>
+            <td><a href="assignments/methodology/03">MA 3 (due Nov. 3rd)</a></td>
             <td></td>
         </tr>
-        <tr>
+    <!--    <tr>
             <td>6</td>
             <td><a href="lessons/06">Git</a></td>
             <td><a href="assignments/methodology/04">MA 4 (due Nov. 18th)</a></td>
