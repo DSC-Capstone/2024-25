@@ -74,7 +74,7 @@ This site is under construction! -->
             <td>5</td>
             <td><a href="lessons/05">Ethics and Values</a><br><small>by Prof. David Danks</small></td>
             <td><a href="assignments/methodology/03">MA 3 (due Nov. 3rd)</a></td>
-            <td></td>
+            <td><a href="assignments/projects/q1"> Q1 Project Intermediate Submission(complete by Nov 4th)</a></td>
         </tr>
     <!--    <tr>
             <td>6</td>
