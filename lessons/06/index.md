@@ -9,7 +9,7 @@ nav_exclude: true
 
 All lectures will be delivered as readings that you complete on your own time. Post questions with the lesson on Ed.
 
-Make sure to read this article before moving on to [Methodology Assignment 4](../../../assignments/methodology/04), which is due on Thursday, November 16th.
+Make sure to read this article before moving on to [Methodology Assignment 4](https://dsc-capstone.org/2024-25/assignments/methodology/04), which is due on Sunday, Nov 10th, 2024.
 
 ---
 
@@ -190,7 +190,7 @@ In the example above, there are two versions of the header – one above the `==
 <h1 class="header">Merge Demo</h1>
 ```
 
-Once you decide which version to keep, you can commit your changes. You'll get practice with this in [Methodology Assignment 4](../../../assignments/methodology/04).
+Once you decide which version to keep, you can commit your changes. You'll get practice with this in [Methodology Assignment 4](https://dsc-capstone.org/2024-25/assignments/methodology/04).
 
 ### Version Control and Notebooks
 
