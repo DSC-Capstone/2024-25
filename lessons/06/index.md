@@ -7,7 +7,7 @@ nav_exclude: true
 # Lesson 6 – Git
 {:.no_toc}
 
-All lectures will be delivered as readings that you complete on your own time. Post questions with the lesson on Ed.
+All lectures will be delivered as readings that you complete on your own time. Post questions with the lesson on Piazza as usual.
 
 Make sure to read this article before moving on to [Methodology Assignment 4](https://dsc-capstone.org/2024-25/assignments/methodology/04), which is due on Sunday, Nov 10th, 2024.
 
