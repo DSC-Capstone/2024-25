@@ -82,12 +82,12 @@ This site is under construction! -->
             <td><a href="assignments/methodology/04">MA 4 (due Nov. 11th)</a></td>
             <td></td>
         </tr>
-        <!--<tr>
+        <tr>
             <td>7</td>
-            <td colspan=2><a href="assignments/methodology/05">LaTeX, Markdown, and GitHub Pages (MA 5 due Nov. 27)</a></td>
+            <td colspan=2><a href="assignments/methodology/05">LaTeX, Markdown, and GitHub Pages (MA 5 due Nov. 17th)</a></td>
             <td></td>
         </tr>
-        <tr>
+        <!--<tr>
             <td>8</td>
             <td>No methodology lesson (Thanksgiving)</td>
             <td></td>
