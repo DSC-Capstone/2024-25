@@ -79,7 +79,7 @@ This site is under construction! -->
         <tr>
             <td>6</td>
             <td><a href="lessons/06">Git</a></td>
-            <td><a href="assignments/methodology/04">MA 4 (due Nov. 10th)</a></td>
+            <td><a href="assignments/methodology/04">MA 4 (due Nov. 11th)</a></td>
             <td></td>
         </tr>
         <!--<tr>
