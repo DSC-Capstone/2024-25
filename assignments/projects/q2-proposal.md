@@ -15,7 +15,7 @@ The proposal consists of three parts. The proposal is worth 15% of your DSC 180A
 ### Groups
 {:.no_toc}
 
-Quarter 2 Projects **must** be worked on in groups of 2-4; you cannot work individually. You must submit your proposal with the same group that you'll work on the project with. It is up to your mentor to determine how groups are formed; you should ask them how groups will be formed. You're required to sign up and attend the [**Week 9/10 TA Check-In**](https://dsc-capstone.org/2024-25/assignments/projects/q1-week-9-10-checkin) in groups, so you should try and identify your group sooner rather than later.
+Quarter 2 Projects **must** be worked on in groups; you cannot work individually. You must submit your proposal with the same group that you'll work on the project with. It is up to your mentor to determine how groups are formed; you should ask them how groups will be formed. You're required to sign up and attend the [**Week 8 TA Check-In**](https://dsc-capstone.org/2024-25/assignments/projects/q1-week-9-10-checkin) in groups, so you should try and identify your group sooner rather than later.
 
 ### Context
 {:.no_toc}
@@ -95,7 +95,7 @@ Just as you're required to with your [Quarter 1 Project](https://dsc-capstone.or
 
 ### Ideation
 
-As of the release of these specifications (the end of Week 7), you may not be sure _what_ to propose for Quarter 2. That's totally fine. To help you get started, part of [Methodology Assignment 5](https://dsc-capstone.org/2024-25/assignments/methodology/05#part-2-markdown-and-github-pages) will have you brainstorm ideas based on your current understanding of your domain.
+As of the release of these specifications, you may not be sure _what_ to propose for Quarter 2. That's totally fine. To help you get started, part of [Methodology Assignment 5](https://dsc-capstone.org/2024-25/assignments/methodology/05#part-2-markdown-and-github-pages) will have you brainstorm ideas based on your current understanding of your domain.
 
 Note that the amount of freedom you have in proposing your own project will depend on your mentor. In fact, your mentor may already have determined what your Quarter 2 Project will be, and that's fine. In any case, your mentor will play a crucial role in your proposal, as they'll be able to help you come up with a plan that you can realistically execute in 10 weeks under their guidance. Your final proposal submission should not surprise them at any point, because you should be discussing it with them regularly and incorporating their feedback.
 
@@ -199,7 +199,7 @@ Even though elevator pitches **do not contain slides**, it's a good idea to use 
 ### Deliverables and Grading
 
 You'll present your elevator pitch in two stages:
-1. First, you'll deliver a _dry run_ of your elevator pitch to your TA and the rest of your project group. Think of the dry run as a "checkpoint" for your final elevator pitch – it doesn't need to be polished at this stage. You will present your dry run at your [**Week 9/10 TA check-in**](https://dsc-capstone.org/2024-25/assignments/projects/q1-week-9-10-checkin); we'll make an announcement on Ed once you can sign up for these.
+1. First, you'll deliver a _dry run_ of your elevator pitch to your TA and the rest of your project group. Think of the dry run as a "checkpoint" for your final elevator pitch – it doesn't need to be polished at this stage. You will present your dry run at your [**Week 8 TA check-in**](https://dsc-capstone.org/2024-25/assignments/projects/q1-week-9-10-checkin); we'll make an announcement on Piazza once you can sign up for these.
 2. Then, you'll **individually** record a video of you presenting your elevator pitch to YouTube and submit a link to it on Gradescope. There should be no slides in the video, just your face talking. (Let Suraj know if you have any concerns with this requirement.)
 
 Note that every member of your group will have to record separate videos, even if you write your pitches together and they are largely similar.
