@@ -89,8 +89,7 @@ This site is under construction! -->
         </tr>
         <tr>
             <td>8</td>
-            <td></td>
-            <td><a href="assignments/methodology/06">Environments and Containerization (MA 6 due Nov 24th)</a></td>
+            <td colspan=2><a href="assignments/methodology/06">Environments and Containerization (MA 6 due Nov 24th)</a></td>
             <td><a href="assignments/projects/q1-week-9-10-checkin">Week 8 TA Check-In</a></td>
         </tr>
         <tr>
