@@ -87,15 +87,15 @@ This site is under construction! -->
             <td colspan=2><a href="assignments/methodology/05">LaTeX, Markdown, and GitHub Pages (MA 5 due Nov. 17th)</a></td>
             <td></td>
         </tr>
-        <!--<tr>
+        <tr>
             <td>8</td>
-            <td><a href="lessons/09">Project Management</a></td>
+            <td></td>
             <td><a href="assignments/methodology/06">Environments and Containerization (MA 6 due Nov 24th)</a></td>
-            <td><a href="assignments/projects/q1-week-9-10-checkin">Week 9/10 TA Check-In (complete by Dec. 2 - preferably earlier)</a></td>
+            <td><a href="assignments/projects/q1-week-9-10-checkin">Week 8 TA Check-In</a></td>
         </tr>
         <tr>
             <td>9</td>
-            <td>No Lessons (Thanksgiving Week)</td>
+            <td><a href="lessons/09">Project Management</a></td>
             <td></td>
             <td>Work on your Q1 project and Q2 project proposal (Due by Dec 2nd)</td>
         </tr>
@@ -104,7 +104,7 @@ This site is under construction! -->
             <td>No lesson.</td>
             <td></td>
             <td>Submit your Q1 project as well as the Q2 project proposal (Dec 2nd midnight)</td>
-        </tr> -->
+        </tr>
     </tbody>
 </table>
 
