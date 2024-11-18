@@ -7,7 +7,7 @@ nav_exclude: true
 # Lesson 9 – Project Management
 {:.no_toc}
 
-All lectures will be delivered as readings that you complete on your own time. Post questions with the lesson on Ed.
+All lectures will be delivered as readings that you complete on your own time. Post questions with the lesson on Piazza.
 
 {: .red }
 **While this lesson doesn't have an associated Methodology Assignment, you should read it before you finalize the [Schedule component of your Quarter 2 Project Proposal](https://dsc-capstone.org/2024-25/assignments/projects/q2-proposal#schedule-graded-by-your-mentor), due on Monday, December 2nd.<br><br>Also, please fill out both the official [Student Evaluations of Teaching](https://academicaffairs.ucsd.edu/Modules/Evals/) (by Saturday 11/30). Thank you for your feedback!** 
