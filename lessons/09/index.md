@@ -10,7 +10,7 @@ nav_exclude: true
 All lectures will be delivered as readings that you complete on your own time. Post questions with the lesson on Ed.
 
 {: .red }
-**While this lesson doesn't have an associated Methodology Assignment, you should read it before you finalize the [Schedule component of your Quarter 2 Project Proposal](../../assignments/projects/q2-proposal#schedule-graded-by-your-mentor), due on Monday, December 11th.<br><br>Also, please fill out both the official [Student Evaluations of Teaching](https://academicaffairs.ucsd.edu/Modules/Evals/) (by Saturday 12/9 at 8AM) and the [End-of-Quarter Survey](https://docs.google.com/forms/d/e/1FAIpQLScVWzqB2NOdSg2F-noR8CC1jTF3F6K9d-14swlVezbZQ4JGcQ/viewform) (by the end of finals week). Thank you for your feedback!** 
+**While this lesson doesn't have an associated Methodology Assignment, you should read it before you finalize the [Schedule component of your Quarter 2 Project Proposal](https://dsc-capstone.org/2024-25/assignments/projects/q2-proposal#schedule-graded-by-your-mentor), due on Monday, December 2nd.<br><br>Also, please fill out both the official [Student Evaluations of Teaching](https://academicaffairs.ucsd.edu/Modules/Evals/) (by Saturday 11/30). Thank you for your feedback!** 
 
 ---
 
@@ -26,7 +26,7 @@ All lectures will be delivered as readings that you complete on your own time. P
 
 In Quarter 2, you will work on **everything** in groups. This makes it important that your group is able to work well together; you only have 10 weeks to execute your project, which is not very long. To encourage your groups to work as productively as possible, we're going to:
 1. Require that all groups meet weekly _outside_ of discussion section.
-1. Require that all groups maintain a running meeting notes Google Doc that their mentor, TA, and Suraj all have access to; this will allow us to maintain a paper trail of who is doing (and saying) what. This document is also where each group will answer their weekly participation questions (which, as you guessed it, will also be answered in groups).
+1. Require that all groups maintain a running meeting notes Google Doc that their mentor, TA, and your instructor all have access to; this will allow us to maintain a paper trail of who is doing (and saying) what. This document is also where each group will answer their weekly participation questions (which, as you guessed it, will also be answered in groups).
 
 We'll talk more about the specifics how Quarter 2 will work at the start of the quarter. For now, this lesson will cover a few principles to follow, particularly in the context of developing software, so that you make the most of your meetings with your group and maximize your chances of successfully executing your Quarter 2 Project Proposal.
 
@@ -82,15 +82,15 @@ The following video does a good job of providing intuition for the difference be
 
 As mentioned earlier, you're encouraged to follow the principles of Agile development when working on your projects this quarter. Waterfall development will **not** work – there is simply no time for you to sit idle for weeks while your partners work. All group members need to be active each week.
 
-When creating the [**schedule for your Quarter 2 Project Proposal**](../../assignments/projects/q2-proposal#schedule-graded-by-your-mentor), you should create a list of tasks that each group member will do each week. Write your schedule in such a way that:
+When creating the [**schedule for your Quarter 2 Project Proposal**](https://dsc-capstone.org/2024-25/assignments/projects/q2-proposal#schedule-graded-by-your-mentor), you should create a list of tasks that each group member will do each week. Write your schedule in such a way that:
 
 - **Each group member can work in parallel.** That is, Person B should not have to wait for Person A to finish a task before they can start working. If Person B is working on a feature that depends on Person A's output, Person B can use synthetically-created data (or something similar) as a placeholder for Person A's output until it is finalized. (For a concrete example, Person A may be writing scripts that clean raw data, and Person B may be building a machine learning model.)
 - **Each group member is working on a different task than in the previous week.** It's totally fine if a particular task takes two weeks to complete, but the description of that task in your schedule should be different for both weeks, to reflect the breakdown of that task into smaller subtasks.
 - **Each group member knows what everyone else is actively working on.** Not only will this held each group member accountable, but it'll also give other group members the opportunity to help resolve issues with tasks that weren't initially assigned to them.
-- **The team, as a unit, produces code that is fully buildable and runnable.** All group members should regularly merge their code into the `main` branch of the repo, which will ensure that the `main` branch always contains a "complete" project.  It **should not** be the case that your group's codebase only runs in Week 7.  (Using the example from the embedded video above: your repo should always contain a fully-constructed house. The number of rooms and hallways of that house can change as the weeks go on, but it should always be a complete house.). **Note what we said in [Lesson 6 (Git) regarding version control in DSC 180B](../06/#version-control-next-quarter-in-dsc-180b).**
+- **The team, as a unit, produces code that is fully buildable and runnable.** All group members should regularly merge their code into the `main` branch of the repo, which will ensure that the `main` branch always contains a "complete" project.  It **should not** be the case that your group's codebase only runs in Week 7.  (Using the example from the embedded video above: your repo should always contain a fully-constructed house. The number of rooms and hallways of that house can change as the weeks go on, but it should always be a complete house.). **Note what we said in [Lesson 6 (Git) regarding version control in DSC 180B](https://dsc-capstone.org/2-24-25/lessons/06/#version-control-next-quarter-in-dsc-180b).**
 - **The team, as a unit, decides what the plan for the next week is, and if any part of the existing schedule needs to change.**
 
 To achieve all of these goals, it will be necessary to be in regular communication with your group, not just in section, but in your (required) separate weekly meetings and asynchronously.
 
 {: .green }
-**At the start of Quarter 2, we'll announce the due dates for all project deliverable checkpoints (e.g. poster checkpoint, code checkpoint, report checkpoint); at that point, you may need to modify your schedule slightly. You'll also need to modify it each week in the event anything changes. Keep things flexible!**
+**At the start of Quarter 2, we'll announce the due dates for all project deliverable checkpoints (e.g. poster checkpoint, code checkpoint, report checkpoint); at that point, you may need to modify your schedule slightly. You'll also need to modify it each week in the event anything changes. Keep things flexible and be AGILE!**
