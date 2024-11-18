@@ -89,20 +89,21 @@ This site is under construction! -->
         </tr>
         <!--<tr>
             <td>8</td>
-            <td>No methodology lesson (Thanksgiving)</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>9</td>
-            <td colspan=2><a href="assignments/methodology/06">Environments and Containerization (MA 6 due Dec. 2nd)</a></td>
+            <td><a href="lessons/09">Project Management</a></td>
+            <td><a href="assignments/methodology/06">Environments and Containerization (MA 6 due Nov 24th)</a></td>
             <td><a href="assignments/projects/q1-week-9-10-checkin">Week 9/10 TA Check-In (complete by Dec. 2 - preferably earlier)</a></td>
         </tr>
         <tr>
-            <td>10</td>
-            <td><a href="lessons/09">Project Management</a></td>
+            <td>9</td>
+            <td>No Lessons (Thanksgiving Week)</td>
             <td></td>
-            <td><a href="assignments/projects/q1">Q1 Project (due Dec. 2)</a><br><br><a href="assignments/projects/q2-proposal">Q2 Project Proposal (due Dec. 2nd)</a></td>
+            <td>Work on your Q1 project and Q2 project proposal (Due by Dec 2nd)</td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>No lesson.</td>
+            <td></td>
+            <td>Submit your Q1 project as well as the Q2 project proposal (Dec 2nd midnight)</td>
         </tr> -->
     </tbody>
 </table>
