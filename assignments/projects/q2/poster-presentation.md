@@ -8,15 +8,14 @@ nav_exclude: true
 # 🗺️ Poster and Presentation – Quarter 2 Project
 {:.no_toc}
 
-_last updated Wednesday, February 21st, 2024_
 
 [🔙 to the main Quarter 2 Project page](../)
 
 ---
-- Poster checkpoint due **Sunday, February 18th**
+- Poster checkpoint due **Sunday, February 16th**
 - Presentation checkpoint delivered during **Week 8 Check-In**
-- Final poster due **Sunday, March 10th**
-- Presentation delivered at [**capstone showcase on Friday, March 15th**](https://dsc-capstone.org/showcase-24)
+- Final poster due **Monday, March 10th**
+- Presentation delivered at [**capstone showcase on Friday, March 14th**](https://dsc-capstone.org/showcase-25)
 - Poster graded by **mentors**, presentation graded by **methodology staff**
 
 [Submit your poster as a PDF here by Sunday, March 10th at 11:59PM.](https://docs.google.com/forms/d/e/1FAIpQLSeMo9A12Bl4E6RDkCOJWCsrdRH7At0rDjemLRhMX2R2Y_vPAg/viewform){: .btn .btn-blue }
@@ -33,13 +32,13 @@ _last updated Wednesday, February 21st, 2024_
 
 ## Overview
 
-The capstone showcase on **Friday, March 15th** will be a poster session, which means you will present your project using a poster. During your assigned block – either 11AM-12:30PM or 1-2:30PM, you and your group will stand next to your poster as attendees approach you to ask and hear about your work.
+The capstone showcase on **Friday, March 14th** will be a poster session, which means you will present your project using a poster. During your assigned block – either 11AM-12:30PM or 1-2:30PM, you and your group will stand next to your poster as attendees approach you to ask and hear about your work.
 
 If you've never seen a poster session before, you can see footage of the 2018 CSE Internship Symposium poster session below.
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/wYV-ixiwE6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
-And here's a picture of last year's capstone showcase (which was the first in-person capstone showcase):
+And here's a picture of an older capstone showcase (which was the first in-person capstone showcase):
 
 <center><img src="../assets/showcase.jpeg" width="85%"></center>
 
@@ -94,9 +93,9 @@ Each of the six bullet points below are worth 1 point.
 
 | Letter Grade | Points |
 | --- | --- |
-| A | 5-6 |
-| B | 3-4 |
-| C | 1-2 |
+| A | 4 |
+| B | 3 |
+| C | 2 |
 | F | 0 |
 
 Note that these don't all have to be touched on in your "elevator pitch"; they can be revealed in the conversations you have with your TA / other attendees. With that said, all group members will receive an **individual** presentation grade – so all group members need to be able to talk and answer questions about the project at the showcase.
@@ -209,9 +208,9 @@ Then, consult the following links for additional guidance.
 > 
 > For this checkpoint, all you need to do is submit a draft of your poster as a PDF. Your mentor will provide feedback on this draft.
 
-On Sunday, March 10th, you will submit your poster to us as a PDF of size **48" x 36"** via Google Form:
+On Monday, March 10th, you will submit your poster to us as a PDF of size **48" x 36"** via Google Form:
 
-[Submit your poster as a PDF here by Sunday, March 10th at 11:59PM.](https://docs.google.com/forms/d/e/1FAIpQLSeMo9A12Bl4E6RDkCOJWCsrdRH7At0rDjemLRhMX2R2Y_vPAg/viewform){: .btn .btn-blue }
+[Submit your poster as a PDF here by Monday, March 10th at 11:59PM.](https://docs.google.com/forms/d/e/1FAIpQLSeMo9A12Bl4E6RDkCOJWCsrdRH7At0rDjemLRhMX2R2Y_vPAg/viewform){: .btn .btn-blue }
 
 {: .red }
-**We will print your poster for you (and pay for the printing costs), but only if you submit on time (by Sunday, March 10th)!**
+**We will print your poster for you (and pay for the printing costs), but only if you submit on time (by Monday, March 10th)!**
