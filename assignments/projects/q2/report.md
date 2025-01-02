@@ -14,7 +14,7 @@ nav_exclude: true
 ---
 
 - Checkpoint due **Sunday, February 9th**
-- Final submission due **Thursday, March 10th**
+- Final submission due **Monday, March 10th**
 - Graded by **mentors**
 
 ---
