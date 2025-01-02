@@ -8,20 +8,18 @@ nav_exclude: true
 # 🛜 Website – Quarter 2 Project
 {:.no_toc}
 
-_last updated Tuesday, January 9th, 2024_
-
 [🔙 to the main Quarter 2 Project page](../)
 
 ---
-- Checkpoint due **Sunday, February 25th**
-- Final submission due **Thursday, March 14th**
+- Checkpoint due **Sunday, February 23rd**
+- Final submission due **Monday, March 10th**
 - Graded by **methodology staff**
 
 ---
 
 ## Overview
 
-You will create a static website that serves as a public-facing version of your report. To get a sense of the types of websites students created in the past, refer to [last year's project websites](https://dsc-capstone.org/showcase-23).
+You will create a static website that serves as a public-facing version of your report. To get a sense of the types of websites students created in the past, refer to [last year's project websites](https://dsc-capstone.org/showcase-24).
 
 
 Anyone on the internet may stumble across your website, whether that's a recruiter that messages you on LinkedIn, your friends and family from home, someone on the internet who Googles your research area, or even an expert who is interested in your results. As such, your website should be targeted towards a general audience. Not everyone needs to know the details of your work immediately; instead, the goal of your website should be to **get the general public interested in your project and why it is impactful, and to encourage them to read further if interested**. Realistically, nobody is going to read your report or look at the code in your GitHub repository – both of which should be linked from your website – unless they have a good reason to.
@@ -67,7 +65,7 @@ In some special cases, your group may be working on developing a "product", like
 If your project is a traditional methods or analysis project, your primary deliverable is your **report** and your secondary deliverable is your **website**. <br><br> If your project is building a product (e.g. an application or dashboard), your primary deliverable is your **product** itself and your secondary deliverable is your **report**, though as mentioned above, you must still produce a static webpage, and it is that webpage that you should submit a checkpoint for.
 
 {: .green }
-> **Checkpoint (due Sunday, February 25th)**
+> **Checkpoint (due Sunday, February 23rd)**
 > 
 > All that's required for the checkpoint is that you set up the skeleton/outline of your project webpage. It should contain titles and headers, but doesn't need to contain content – all we need to see is that you put thought into how your webpage is organized.
 > 
@@ -76,4 +74,4 @@ If your project is a traditional methods or analysis project, your primary deliv
 
 <br>
 
-<b><a href="https://edstem.org/us/courses/48541/discussion/4550660">Follow the instructions here to submit your work.</a></b> You'll need to start by creating an <b><a href="https://github.com/DSC-Capstone/artifact-directory-template">artifacts repository</a></b>.
+You'll need to start by creating an <b><a href="https://github.com/DSC-Capstone/artifact-directory-template">artifacts repository</a></b>.
