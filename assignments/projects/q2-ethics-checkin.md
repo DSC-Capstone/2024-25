@@ -17,4 +17,4 @@ The purpose of the check-in is to have you reflect on how the lesson on [Ethics 
 You will check-in with your project group. When you sign up, include your group number (which was emailed to you by Suraj on January 7th). **Under no circumstance should there be students from different project groups in the same block!**
 
 {: .green }
-**To sign up for a check-in, go to [this sheet](https://docs.google.com/spreadsheets/d/1TjrvqjhISzFVj8k2Cws3_N-TMnYs8yjoaZ5mu__eEIQ/edit?usp=sharing). Each tab of the sheet corresponds to a different date.**
+**To sign up for a check-in, go to [this sheet](). Each tab of the sheet corresponds to a different date.**
