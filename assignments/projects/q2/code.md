@@ -8,14 +8,13 @@ nav_exclude: true
 # 💻 Code – Quarter 2 Project
 {:.no_toc}
 
-_last updated Monday, January 8th, 2024_
 
 [🔙 to the main Quarter 2 Project page](../)
 
 ---
 
-- Checkpoint due **Sunday, February 11th**
-- Final submission due **Thursday, March 14th**
+- Checkpoint due **Sunday, February 9th**
+- Final submission due **Monday, March 10th**
 - Graded by **methodology staff**
 
 ---
@@ -25,7 +24,7 @@ Your code artifact is a **public GitHub repository** that contains all code for 
 Your public GitHub repo should be updated incrementally and regularly to reflect your most recent work. Both at the checkpoint and at the end of the quarter, the commit history for your repo should show that each group member pushed code to the repo in regular intervals, **not** that all code was added right before the deadline – that'll raise red flags 🚩. You may want to review [Lesson 6](../../../../lessons/06) for pointers on how to collaborate with Git.
 
 {: .green }
-> **Checkpoint (due Sunday, February 11th)**
+> **Checkpoint (due Sunday, February 9th)**
 > 
 > The purpose of the code checkpoint is to verify that your code:
 > - Is well documented and build instructions are found in `README.md`. In particular, there need to be instructions on how to recreate the environment used to develop the code, e.g. how to create the necessary `conda` environment or Docker image.
