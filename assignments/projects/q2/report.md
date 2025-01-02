@@ -8,14 +8,13 @@ nav_exclude: true
 # 📝 Report – Quarter 2 Project
 {:.no_toc}
 
-_last updated Monday, January 8th, 2024_
 
 [🔙 to the main Quarter 2 Project page](../)
 
 ---
 
-- Checkpoint due **Sunday, February 11th**
-- Final submission due **Thursday, March 14th**
+- Checkpoint due **Sunday, February 9th**
+- Final submission due **Thursday, March 10th**
 - Graded by **mentors**
 
 ---
@@ -27,7 +26,7 @@ Your report should introduce and contextualize the problem you worked on, descri
 <i>A worthwhile Twitter thread to read.</i>
 </center>
 
-As in Quarter 1, your report will need to be written in LaTeX, using the LaTeX template on Overleaf linked below. 
+As in Quarter 1, your report will need to be written in LaTeX, using the LaTeX template on Overleaf linked below.  Submissions not using this template or LaTeX will NOT receive a grade. 
 
 <span class="fs-3">
 [Access the LaTeX template on Overleaf here.](https://www.overleaf.com/read/swwcqhtsdwbg#80379d){: .btn .btn-green }
@@ -40,7 +39,7 @@ Tip: The figures in your report should **not** be created from screenshots:
   - Plots should be saved programmatically (e.g. using `plt.savefig`) and imported (or converted from a notebook).
 
 {: .green }
-> **Checkpoint (due Sunday, February 11th)**
+> **Checkpoint (due Sunday, February 9th)**
 > 
 > The purpose of your report checkpoint is an opportunity to get feedback from your mentor. For your checkpoint, submit a PDF containing a _draft_ of your report, with:
 > - Headings for every section you plan to write (e.g. "Introduction", "Methods", "Results", "Conclusion", "Appendix", "Contributions"). This will make it easy to fill in the remaining sections later.
@@ -52,5 +51,3 @@ Tip: The figures in your report should **not** be created from screenshots:
 > Your checkpoint report should also be written in the aforementioned LaTeX template.
 
 <br>
-
-<b><a href="https://edstem.org/us/courses/48541/discussion/4550660">Follow the instructions here to submit your work.</a></b>
