@@ -157,7 +157,7 @@ A few things to note before the quarter begins:
 
 - Sections begin on Monday, January 6th. Confirm the date and time of your discussion section [here](https://docs.google.com/spreadsheets/d/1GJeB_vYxjLZUt_-vzGDg84Vf7dKrBaPkdlkrRr-TK9w/edit?usp=sharing).
   - Make sure to enroll in your section ASAP if you haven't already, and to start participating from Day 1.
-- There are no new methodology lessons or assignments in Quarter 2. Everything you'll be required to submit will be in some way related to your Quarter 2 Project, and all deadlines are on the course homepage. There are, however, [Office Hours](../office-hours) held by the methodology TAs each week.
+- There are no new methodology lessons or assignments in Quarter 2. Everything you'll be required to submit will be in some way related to your Quarter 2 Project, and all deadlines are on the course homepage. There are, however, [Office Hours](https://dsc-capstone.org/2024-25/office-hours) held by the methodology TAs each week.
 - Make sure you can access the following sites; email the instructor if you can't:
     - The **new** 2025 Gradescope (to be setup), where all assignments will be submitted.
     - We will use the same [Piazza](https://piazza.com/class/m0vk9il4ypf1ei) instance as we did in the fall. **All class-wide announcements will be sent here!**
@@ -170,7 +170,7 @@ A few things to note before the quarter begins:
 
 There are no new methodology lessons or assignments this quarter; all relevant material was already presented and assessed in Quarter 1. Throughout this quarter, you should refer back to the relevant methodology content from last quarter.
 
-As was the case last quarter, there are no live lectures either.
+As was the case last quarter, there are no live lectures either except for one at the start of the Quarter. 
 
 ### Discussion (Domain)
 
@@ -178,26 +178,26 @@ As in Quarter 1, discussion section will focus on your domain. Each week, a repr
 
 The weekly check-in gives you an opportunity to practice talking about technical material, solicit feedback from your mentor, and learn from other teams' successes and obstacles. As such, **attendance in discussion each week is mandatory, like in Quarter 1**. If you're unable to attend in a given week, work out an arrangement with your mentor in advance.
 
-**With that all said, you're expected to meet with your group at least once per week outside of your discussion section.** To make sure that all group members are on track, we'll have you create a running Google Doc in which your group details who did what each week, and submit a snapshot of it each Sunday by 11:59PM. This constitutes the [Participation](../assignments/participation/q2) assignment this quarter.
+**With that all said, you're expected to meet with your group at least once per week outside of your discussion section.** To make sure that all group members are on track, we'll have you create a running Google Doc in which your group details who did what each week, and submit a snapshot of it each Sunday by 11:59PM. This constitutes the [Participation](https://dsc-capstone.org/2024-25/assignments/participation/q2) assignment this quarter.
 
 ### Office Hours
 
-In addition to any office hours your mentor may hold, methodology course staff will also hold office hours to help you resolve technical problems with your deliverables. See the [Office Hours](../office-hours) page for the schedule, and the [Staff](../staff) page to see who your TA is (who, like in Quarter 1, you'll be required to check in with a few times throughout the quarter in dedicated check-in slots).
+In addition to any office hours your mentor may hold, methodology course staff will also hold office hours to help you resolve technical problems with your deliverables. See the [Office Hours](https://dsc-capstone.org/2024-25/office-hours) page for the schedule. Your TA continues to remain the same as in the previous quarter (who, like in Quarter 1, you'll be required to check in with a few times throughout the quarter in dedicated check-in slots).
 
 ## Assignments and Grades
 
-See [Quarter 2 Project](../assignments/projects/q2) spec for a description of all project deliverables, and the [course homepage](../) for all due dates.
+See [Quarter 2 Project](https://dsc-capstone.org/2024-25/assignments/projects/q2) spec for a description of all project deliverables, and the [course homepage](../) for all due dates.
 
 _Note: These weights may change slightly during the first two weeks of the quarter._
 
 | Component | Description | Weight |
 | --- | --- | --- |
 | Checkpoints | Each component of the Quarter 2 Project has a checkpoint to ensure that you're on track. | 10% |
-| Primary deliverable | If your project is a traditional methods or analysis project, your primary deliverable is your **report** and your secondary deliverable is your **website**. <br><br> If your project is building a product (e.g. an application or dashboard), your primary deliverable is your **product** itself and your secondary deliverable is your **report**, though you will still have to create a separate website. See the [Quarter 2 Project](../assignments/projects/q2) spec for more details. |  45% |
+| Primary deliverable | If your project is a traditional methods or analysis project, your primary deliverable is your **report** and your secondary deliverable is your **website**. <br><br> If your project is building a product (e.g. an application or dashboard), your primary deliverable is your **product** itself and your secondary deliverable is your **report**, though you will still have to create a separate website. See the [Quarter 2 Project](https://dsc-capstone.org/2024-25/assignments/projects/q2) spec for more details. |  45% |
 | Secondary deliverable | See above. | 15% |
-| Poster presentation | Your produced poster and presentations at the [**in-person capstone showcase**](https://dsc-capstone.org/showcase-24) will be graded on polish and clarity. | 15% |
+| Poster presentation | Your produced poster and presentations at the [**in-person capstone showcase**](https://dsc-capstone.org/showcase-25) will be graded on polish and clarity. | 15% |
 | Code artifact | Your final code submission will be graded based on the methodological standards introduced in Lesson 3 of Quarter 1. | 5% |
-| [Participation questions](../assignments/participation/q2) | Weekly prompts that require you to document each group member's progress so far and how your project plans have evolved.	 | 5% |
+| [Participation questions](https://dsc-capstone.org/2024-25/assignments/participation/q2) | Weekly prompts that require you to document each group member's progress so far and how your project plans have evolved.	 | 5% |
 | Overall participation | As in Quarter 1, your mentor will assign you an overall participation grade at the end of the quarter. | 5% |
 
 ### Grading Policy
