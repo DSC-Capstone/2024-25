@@ -155,7 +155,7 @@ In Quarter 2, you will execute your [Quarter 2 Project](../assignments/projects/
 
 A few things to note before the quarter begins:
 
-- Sections begin on Monday, January 6th. Confirm the date and time of your discussion section [here](https://docs.google.com/spreadsheets/d/1dCjs06QobZ3jrMBFIMeHYuqXDpGZHLZAxYUnraVQtNI/edit#gid=0).
+- Sections begin on Monday, January 6th. Confirm the date and time of your discussion section [here](https://docs.google.com/spreadsheets/d/1GJeB_vYxjLZUt_-vzGDg84Vf7dKrBaPkdlkrRr-TK9w/edit?usp=sharing).
   - Make sure to enroll in your section ASAP if you haven't already, and to start participating from Day 1.
 - There are no new methodology lessons or assignments in Quarter 2. Everything you'll be required to submit will be in some way related to your Quarter 2 Project, and all deadlines are on the course homepage. There are, however, [Office Hours](../office-hours) held by the methodology TAs each week.
 - Make sure you can access the following sites; email the instructor if you can't:
