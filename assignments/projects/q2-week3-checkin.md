@@ -24,4 +24,4 @@ This is different from your weekly domain meeting, in that this is more about ma
 You will check-in with your project group. When you sign up, include your group number (which was emailed to you by Suraj on January 7th). **Under no circumstance should there be students from different project groups in the same block!** If you can't make any of your TA's slots, send an email to both them and me explaining your circumstances.
 
 {: .green }
-**To sign up for a check-in, go to [this sheet]([TBD](https://docs.google.com/spreadsheets/d/1jYvdblK5UAGpBkGIZ0pm_T2qsVxuvnq9LN0n8i3pJLg/edit?usp=sharing)). Make sure to sign up for a check-in with the correct TA! Your TA will determine the venue by the beginning of the week**
+**To sign up for a check-in, go to [this sheet](https://docs.google.com/spreadsheets/d/1jYvdblK5UAGpBkGIZ0pm_T2qsVxuvnq9LN0n8i3pJLg/edit?usp=sharing). Make sure to sign up for a check-in with the correct TA! Your TA will determine the venue by the beginning of the week**
