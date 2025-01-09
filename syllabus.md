@@ -159,7 +159,7 @@ A few things to note before the quarter begins:
   - Make sure to enroll in your section ASAP if you haven't already, and to start participating from Day 1.
 - There are no new methodology lessons or assignments in Quarter 2. Everything you'll be required to submit will be in some way related to your Quarter 2 Project, and all deadlines are on the course homepage. There are, however, [Office Hours](https://dsc-capstone.org/2024-25/office-hours) held by the methodology TAs each week.
 - Make sure you can access the following sites; email the instructor if you can't:
-    - The **new** 2025 Gradescope (to be setup), where all assignments will be submitted.
+    - The **new** 2025 [Gradescope](https://www.gradescope.com/courses/941344), where all assignments will be submitted.
     - We will use the same [Piazza](https://piazza.com/class/m0vk9il4ypf1ei) instance as we did in the fall. **All class-wide announcements will be sent here!**
 
 ---
