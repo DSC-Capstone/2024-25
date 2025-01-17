@@ -40,7 +40,7 @@ If you've never seen a poster session before, you can see footage of the 2018 CS
 
 And here's a picture of an older capstone showcase (which was the first in-person capstone showcase):
 
-<center><img src="https://dsc-capstone.org/2024-25/assets/showcase.jpeg" width="85%"></center>
+<center><img src="https://dsc-capstone.org/2024-25/assignments/projects/q2/assets/showcase.jpeg" width="85%"></center>
 
 That'll be you soon!
 
@@ -151,13 +151,13 @@ Some requirements:
 
 <center markdown="1">
 
-Option 1: Blue and Gold (download high-res version <a href="../../../../assets/images/hdsi-blue-gold.png">here</a>)<br><br>
+Option 1: Blue and Gold (download high-res version <a href="https://dsc-capstone.org/2024-25/assets/images/hdsi-blue-gold.png">here</a>)<br><br>
 
-<img src="../../../../assets/images/hdsi-blue-gold.png" width="250"><br><br>
+<img src="https://dsc-capstone.org/2024-25/assets/images/hdsi-blue-gold.png" width="250"><br><br>
 
-Option 2: White (download high-res version <a href="../../../../assets/images/hdsi-white.png">here</a>)<br>Yes, this is intentionally hard to see on a white background – only use this logo if the top of your poster is a dark color!<br><br>
+Option 2: White (download high-res version <a href="https://dsc-capstone.org/2024-25/assets/images/hdsi-white.png">here</a>)<br>Yes, this is intentionally hard to see on a white background – only use this logo if the top of your poster is a dark color!<br><br>
 
-<img src="../../../../assets/images/hdsi-white.png" width="250">
+<img src="https://dsc-capstone.org/2024-25/assets/images/hdsi-white.png" width="250">
 
 </center>
 
@@ -166,7 +166,7 @@ Here's a barebones example of a poster that follows the branding and formatting 
 
 <center>
 
-<img src="../../../../assets/images/poster-example.png" width="600">
+<img src="https://dsc-capstone.org/2024-25/assets/images/poster-example.png" width="600">
 
 </center>
 
@@ -210,7 +210,7 @@ Then, consult the following links for additional guidance.
 
 On Monday, March 10th, you will submit your poster to us as a PDF of size **48" x 36"** via Google Form:
 
-[Submit your poster as a PDF here by Monday, March 10th at 11:59PM.](https://docs.google.com/forms/d/e/1FAIpQLSeMo9A12Bl4E6RDkCOJWCsrdRH7At0rDjemLRhMX2R2Y_vPAg/viewform){: .btn .btn-blue }
+[Submit your poster as a PDF here by Monday, March 10th at 11:59PM.](){: .btn .btn-blue }
 
 {: .red }
 **We will print your poster for you (and pay for the printing costs), but only if you submit on time (by Monday, March 10th)!**
