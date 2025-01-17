@@ -53,7 +53,7 @@ This site is under construction! -->
         </tr>
         <tr>
             <td>6</td>
-            <td>✅ <b style="color:green">Submit</b> your <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2/poster-presentation"> Poster Checkpoint </a> by  <b>Sunday, February 16th</b>. </td>
+            <td>✅ <b style="color:green">Submit</b> your <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2/poster-presentation"> Poster Checkpoint</a> by  <b>Sunday, February 16th</b>. </td>
         </tr>
         <tr>
             <td>7</td>
