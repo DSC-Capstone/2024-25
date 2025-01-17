@@ -49,11 +49,11 @@ This site is under construction! -->
         </tr>
         <tr>
             <td>5</td>
-            <td> ✅ <b style="color:green">Submit</b> your <a href="assignments/projects/q2/report">Report Checkpoint</a> and <a href="assignments/projects/q2/code"> Code Checkpoint</a> by <b>Sunday, February 9th</b>.<br>Attend an Ethics Check-In with Prof. David Danks between February 3rd and 14th.</td>
+            <td> ✅ <b style="color:green">Submit</b> your <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2/report">Report Checkpoint</a> and <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2/code"> Code Checkpoint</a> by <b>Sunday, February 9th</b>.<br>Attend an Ethics Check-In with Prof. David Danks between February 3rd and 14th.</td>
         </tr>
         <tr>
             <td>6</td>
-            <td>✅ <b style="color:green">Submit</b> your <a href="https:dsc-capstone.org/2024-25/assignments/projects/q2/poster-presentation"> Poster Checkpoint </a> by  <b>Sunday, February 16th</b>. </td>
+            <td>✅ <b style="color:green">Submit</b> your <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2/poster-presentation"> Poster Checkpoint </a> by  <b>Sunday, February 16th</b>. </td>
         </tr>
         <tr>
             <td>7</td>
@@ -61,7 +61,7 @@ This site is under construction! -->
         </tr>
         <tr>
             <td>8</td>
-            <td>Sign up for and attend a <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2-week8-checkin"> Week 8 TA Checkin</a>, where you will present a dry run of your <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2/poster-presentation">Poster Presentation</a>.<br><b><a href="https://hdsishowcase.com">RSVP for your block at the showcase.</a></b>  </td>
+            <td>Sign up for and attend a <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2-week8-checkin"> Week 8 TA Checkin</a>, where you will present a dry run of your <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2/poster-presentation">Poster Presentation</a>.<br><b><a href="https://[hdsishowcase.com](https://dsc-capstone.org/showcase-25">RSVP for your block at the showcase.</a></b>  </td>
         </tr>
         <tr>
             <td>9</td>
