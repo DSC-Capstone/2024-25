@@ -18,7 +18,7 @@ nav_exclude: true
 - Presentation delivered at [**capstone showcase on Friday, March 14th**](https://dsc-capstone.org/showcase-25)
 - Poster graded by **mentors**, presentation graded by **methodology staff**
 
-[Submit your poster as a PDF here by Sunday, March 10th at 11:59PM.](https://docs.google.com/forms/d/e/1FAIpQLSeMo9A12Bl4E6RDkCOJWCsrdRH7At0rDjemLRhMX2R2Y_vPAg/viewform){: .btn .btn-blue }
+[Submit your poster as a PDF here by Sunday, March 9th at 11:59PM.](){: .btn .btn-blue }
 
 ---
 
@@ -40,7 +40,7 @@ If you've never seen a poster session before, you can see footage of the 2018 CS
 
 And here's a picture of an older capstone showcase (which was the first in-person capstone showcase):
 
-<center><img src="../assets/showcase.jpeg" width="85%"></center>
+<center><img src="https://dsc-capstone.org/2024-25/assets/showcase.jpeg" width="85%"></center>
 
 That'll be you soon!
 
@@ -69,7 +69,7 @@ Keep your elevator pitch short, no more than 2 minutes long. This is so that, af
 
 The first key to success is rehearsing your elevator pitch. You'll be required to do this with your mentor in section, and with TAs in Week 8. But you'll need to practice much, much more than twice – in the weeks leading up to the showcase, plan to practice your elevator pitch repeatedly with friends and family of a variety of academic backgrounds. **No matter how confident you are in your presentation skills, practice, practice, practice!**
 
-When practicing your elevator pitch, you may find it useful to use slides to _structure_ your presentation (though, of course, you will **not** be able to actually present the slides at the poster session). We suggested this approach in the [Quarter 2 Proposal Elevator Pitch](../../q2-proposal/#tips) assignment in Quarter 1. **Ultimately, though, you'll need to be able to deliver your elevator pitch without referring to notes of any kind.** Sure, you'll have your poster, but while you're speaking, your poster should serve as a visual aid that contains visualizations and summaries of key results. You can point to various figures and sections of your poster, but **make sure you are not simply reading off your poster – that's not engaging.**
+When practicing your elevator pitch, you may find it useful to use slides to _structure_ your presentation (though, of course, you will **not** be able to actually present the slides at the poster session). We suggested this approach in the [Quarter 2 Proposal Elevator Pitch](https://dsc-capstone.org/2024-25/assignments/projects/q2-proposal/#tips) assignment in Quarter 1. **Ultimately, though, you'll need to be able to deliver your elevator pitch without referring to notes of any kind.** Sure, you'll have your poster, but while you're speaking, your poster should serve as a visual aid that contains visualizations and summaries of key results. You can point to various figures and sections of your poster, but **make sure you are not simply reading off your poster – that's not engaging.**
 
 The best way to prepare for the questions you'll receive at the showcase is to let your audiences during your practice runs ask questions, and come up with answers to all of them. This is why it's important to practice giving your pitch to different audiences – different audiences will be curious about different aspects of your project and will require different levels of detail to be satisfied. As we said in the Quarter 2 Proposal Elevator Pitch guidelines, **make sure that you can turn your pitch into a conversation if someone asks a question in the middle**.
 <br>
@@ -132,7 +132,7 @@ While the focus should be on visuals, your poster should also be self-contained 
 
 For actually creating your poster, you're free to use any tools you'd like, though two common choices are LaTeX and Google Slides/Powerpoint. You'll find templates in all sorts of formats online. For one, Kengchi Chang (a methodology TA) has provided links to [two LaTeX templates](https://github.com/KengChiChang/poster_templates) he has used; Example 1 looks like this:
 
-<center><img src="../assets/kengchi-example.png" width="75%"></center>
+<center><img src="https://dsc-capstone.org/2024-25/assignments/projects/q2/assets/kengchi-example.png" width="75%"></center>
 
 {: .note }
 **Start early**. Figure out what content you'd like to put on your poster, and then try and find a template (or create your own) that works for your content.
@@ -145,7 +145,7 @@ Some requirements:
 - **The names and emails of all group members, including your mentor, should appear at the top of your poster, directly underneath the title of your poster. Your mentor's name should always appear last.**
     - Many checkpoint submissions didn't follow this rule!
     - Make sure individuals' emails appear directly underneath their names, rather than somewhere else on the page.
-    - For your mentor's name, you should put "Mentor:" before their name, e.g. "Mentor: Suraj Rampure" (and then underneath that, rampure@ucsd.edu).
+    - For your mentor's name, you should put "Mentor:" before their name, e.g. "Mentor: Umesh Bellur" (and then underneath that, ubellur@ucsd.edu).
     - Since we're including the HDSI logo (see below), there's no need to separately write "Halıcıoğlu Data Science Institute."
 - **You must place one of the following two HDSI logos in the top right corner of your poster**:
 
