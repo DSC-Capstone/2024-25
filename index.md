@@ -49,7 +49,7 @@ This site is under construction! -->
         </tr>
         <tr>
             <td>5</td>
-            <td> ✅ <b style="color:green">Submit</b> your <a href="assignments/projects/q2/report">Report Checkpoint</a> and <a href="assignments/projects/q2/code"> Code Checkpoint</a> by <b>Sunday, February 11th</b>.<br>Attend an Ethics Check-In between February 6th and 16th.</td>
+            <td> ✅ <b style="color:green">Submit</b> your <a href="assignments/projects/q2/report">Report Checkpoint</a> and <a href="assignments/projects/q2/code"> Code Checkpoint</a> by <b>Sunday, February 9th</b>.<br>Attend an Ethics Check-In with Prof. David Danks between February 3rd and 14th.</td>
         </tr>
         <tr>
             <td>6</td>
@@ -69,7 +69,7 @@ This site is under construction! -->
         </tr>
         <tr>
             <td>10</td>
-            <td>✅ <b style="color:green">Submit</b> your <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2/poster-presentation">Poster</a> by <b>Sunday, March 9th <a href="https://docs.google.com/forms/d/e/1FAIpQLSeMo9A12Bl4E6RDkCOJWCsrdRH7At0rDjemLRhMX2R2Y_vPAg/viewform">at this link</a></b>.<br>✅ <b style="color:green">Submit</b> your report, code, website, and contribution statement by <b>Thursday, March 13th and attend the Showcase (to be announced)</b></td>
+            <td>✅ <b style="color:green">Submit</b> your <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2/poster-presentation">Poster</a> by <b>Sunday, March 9th <a href="">at this link</a></b>.<br>✅ <b style="color:green">Submit</b> your report, code, website, and contribution statement by <b>Monday, March 10th and attend the Showcase on March Friday, 14th</b></td>
         </tr>
     </tbody> 
 </table> 
