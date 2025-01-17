@@ -32,4 +32,4 @@ Your public GitHub repo should be updated incrementally and regularly to reflect
 
 <br>
 
-<b><a href="https://edstem.org/us/courses/48541/discussion/4550660">Follow the instructions here to submit your work.</a></b> You'll need to start by creating an <b><a href="https://github.com/DSC-Capstone/artifact-directory-template">artifacts repository</a></b>.
+
