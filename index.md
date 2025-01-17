@@ -39,7 +39,7 @@ This site is under construction! -->
             <td>2</td>
             <td>Keep working!</td>
         </tr>
-        <!--<tr>
+        <tr>
             <td> 3 </td>
             <td><a href="https://dsc-capstone.org/2024-25/assignments/projects/q2-week3-checkin">Sign up for and attend your Week 3 TA Check-In.</a></td>
         </tr>
@@ -70,7 +70,7 @@ This site is under construction! -->
         <tr>
             <td>10</td>
             <td>✅ <b style="color:green">Submit</b> your <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2/poster-presentation">Poster</a> by <b>Sunday, March 9th <a href="https://docs.google.com/forms/d/e/1FAIpQLSeMo9A12Bl4E6RDkCOJWCsrdRH7At0rDjemLRhMX2R2Y_vPAg/viewform">at this link</a></b>.<br>✅ <b style="color:green">Submit</b> your report, code, website, and contribution statement by <b>Thursday, March 13th and attend the Showcase (to be announced)</b></td>
-        </tr> -->
+        </tr>
     </tbody> 
 </table> 
 
