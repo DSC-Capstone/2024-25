@@ -53,7 +53,7 @@ You don't need to write everything from scratch – feel free to re-use material
 
 ## Requirements
 
-Unless you ask Suraj for explicit permission otherwise, your website should be hosted on GitHub Pages. Fortunately, you already learned how to create websites on GitHub pages – you had to create one in [Methodology Assignment 5](../../../../assignments/methodology/05) last quarter! 
+Unless you ask the instructor for explicit permission otherwise, your website should be hosted on GitHub Pages. Fortunately, you  learned how to create websites on GitHub pages – you had to create one in [Methodology Assignment 5](../../../../assignments/methodology/05) last quarter! 
 
 
 In some special cases, your group may be working on developing a "product", like a dashboard, an application, or some sort of service. If that's the case, you will create and submit **both**:
