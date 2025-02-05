@@ -213,4 +213,4 @@ On Monday, March 10th, you will submit your poster to us as a PDF of size **48" 
 [Submit your poster as a PDF here by Monday, March 10th at 11:59PM.](){: .btn .btn-blue }
 
 {: .red }
-**We will print your poster for you (and pay for the printing costs), but only if you submit on time (by Monday, March 10th)!**
+**We will  pay for the printing costs of your poster. Instructions will be posted on Piazza.**
