@@ -69,7 +69,7 @@ This site is under construction! -->
         </tr>
         <tr>
             <td>10</td>
-            <td>✅ <b style="color:green">Submit</b> your <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2/poster-presentation">Poster</a> by <b>Sunday, March 10th <a href="">at this link</a></b>.<br>✅ <b style="color:green">Submit</b> your report, code, website, and contribution statement by <b>Monday, March 9th and attend the Showcase on March Friday, 14th</b></td>
+            <td>✅ <b style="color:green">Submit</b> your <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2/poster-presentation">Poster</a> by <b>Sunday, March 9th <a href="">at this link</a></b>.<br>✅ <b style="color:green">Submit</b> your report, code, website, and contribution statement by <b>Sunday, March 9th and attend the Showcase on March Friday, 14th</b></td>
         </tr>
     </tbody> 
 </table> 
