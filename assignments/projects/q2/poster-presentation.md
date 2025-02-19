@@ -14,7 +14,7 @@ nav_exclude: true
 ---
 - Poster checkpoint due **Sunday, February 16th**
 - Presentation checkpoint delivered during **Week 8 Check-In**
-- Final poster due **Monday, March 10th**
+- Final poster due **Sunday, March 9th**
 - Presentation delivered at [**capstone showcase on Friday, March 14th**](https://dsc-capstone.org/showcase-25)
 - Poster graded by **mentors**, presentation graded by **methodology staff**
 
@@ -210,7 +210,7 @@ Then, consult the following links for additional guidance.
 
 On Monday, March 10th, you will submit your poster to us as a PDF of size **48" x 36"** via Google Form:
 
-[Submit your poster as a PDF here by Monday, March 10th at 11:59PM.](){: .btn .btn-blue }
+[Submit your poster as a PDF here by Sunday, March 9th at 11:59PM.](){: .btn .btn-blue }
 
 {: .red }
 **We will  pay for the printing costs of your poster. Instructions will be posted on Piazza.**
