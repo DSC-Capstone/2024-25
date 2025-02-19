@@ -204,7 +204,7 @@ Then, consult the following links for additional guidance.
 ### Checkpoint and Submission
 
 {: .green }
-> **Poster Checkpoint (due Sunday, February 18th)**
+> **Poster Checkpoint (due Sunday, February 16th)**
 > 
 > For this checkpoint, all you need to do is submit a draft of your poster as a PDF. Your mentor will provide feedback on this draft.
 
