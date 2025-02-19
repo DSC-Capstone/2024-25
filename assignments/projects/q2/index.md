@@ -16,10 +16,10 @@ You will have to produce four main deliverables for your Quarter 2 Project. Each
 
 | | Checkpoint Due Date | Final Due Date |
 | --- |:---|:---|
-| [**Report**](report) | Sunday, February 9th | Monday, March 10th |
-| [**Code**](code) | Sunday, February 9th | Monday, March 10th |
-| [**Website**](website) | Sunday, February 23rd | Monday, March 10th |
-| [**Poster and Presentation**](poster-presentation) | Poster checkpoint due Sunday, February 16th<br>Presentation checkpoint delivered in Week 8 Check-In | Poster due Monday, March 10th<br>Presentation will be at [**capstone showcase on Friday, March 14th**](https://dsc-capstone.org/showcase-25) |
+| [**Report**](report) | Sunday, February 9th | Sunday, March 9th |
+| [**Code**](code) | Sunday, February 9th | Sunday, March 9th |
+| [**Website**](website) | Sunday, February 23rd | Sunday, March 9th |
+| [**Poster and Presentation**](poster-presentation) | Poster checkpoint due Sunday, February 16th<br>Presentation checkpoint delivered in Week 8 Check-In | Poster due Sunday, March 9th<br>Presentation will be at [**capstone showcase on Friday, March 14th**](https://dsc-capstone.org/showcase-25) |
 
 {: .red }
 **Make sure to click and thoroughly read through all four pages linked in the first column of the table above!**
