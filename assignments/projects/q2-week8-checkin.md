@@ -12,7 +12,7 @@ In Week 8 of Quarter 2 – that is, between **February 24th and February 28th)**
 
 ### Presentation
 
-The primary goal of the Week 8 check-in is to gauge your preparedness to talk about your project at the [**in-person capstone showcase on March 14th**](https://dsc-capstone.org/showcase-25/). Note that you can now see your assigned block, both at [**hdsishowcase.com**](https://dsc-capstone.org/showcase-25/).
+The primary goal of the Week 8 check-in is to gauge your preparedness to talk about your project at the [**in-person capstone showcase on March 14th**](https://dsc-capstone.org/showcase-25/). Note that you can now see your assigned block, [HERE](https://dsc-capstone.org/showcase-25/).
 
 Firstly, you must come prepared with the latest version of your poster; it should be further along than the poster checkpoint you submitted on February 16th. Bring a laptop on which you can display your latest version. **The version of the poster you show should follow the updated branding guidelines listed [here](https://dsc-capstone.org/2024-25/assignments/projects/q2/poster-presentation#branding). Specifically, at the top of the poster, the names and emails of all group members should appear, with the mentor's name and email appearing at the end, and the HDSI logo should be in the top right.**
 
