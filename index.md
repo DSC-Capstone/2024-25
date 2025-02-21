@@ -61,7 +61,7 @@ This site is under construction! -->
         </tr>
         <tr>
             <td>8</td>
-            <td>Sign up for and attend a <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2-week8-checkin"> Week 8 TA Checkin</a>, where you will present a dry run of your <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2/poster-presentation">Poster Presentation</a>.<br><b><a href="https://[hdsishowcase.com](https://dsc-capstone.org/showcase-25">RSVP for your block at the showcase.</a></b>  </td>
+            <td>Sign up for and attend a <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2-week8-checkin"> Week 8 TA Checkin</a>, where you will present a dry run of your <a href="https://dsc-capstone.org/2024-25/assignments/projects/q2/poster-presentation">Poster Presentation</a>.<br><b><a href="https://dsc-capstone.org/showcase-25">RSVP for your block at the showcase.</a></b>  </td>
         </tr>
         <tr>
             <td>9</td>
