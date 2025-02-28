@@ -18,7 +18,7 @@ nav_exclude: true
 - Presentation delivered at [**capstone showcase on Friday, March 14th**](https://dsc-capstone.org/showcase-25)
 - Poster graded by **mentors**, presentation graded by **methodology staff**
 
-[Submit your poster as a PDF here by Sunday, March 9th at 11:59PM.](){: .btn .btn-blue }
+[Submit your poster for printing to Triton Print by March 6th. Final submissions of all material for the capstone project will be due by 9th March](){: .btn .btn-blue }
 
 ---
 
