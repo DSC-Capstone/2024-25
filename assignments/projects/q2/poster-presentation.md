@@ -208,9 +208,9 @@ Then, consult the following links for additional guidance.
 > 
 > For this checkpoint, all you need to do is submit a draft of your poster as a PDF. Your mentor will provide feedback on this draft.
 
-On Monday, March 10th, you will submit your poster to us as a PDF of size **48" x 36"** via Google Form:
 
-[Submit your poster as a PDF here by Sunday, March 9th at 11:59PM.](){: .btn .btn-blue }
+
+[Once again, you must place your print order with Triton Print for the poster by March 6th. Final submissions of the all capstone material will be due by March 9th 11.59pm](){: .btn .btn-blue }
 
 {: .red }
-**We will  pay for the printing costs of your poster. Instructions will be posted on Piazza.**
+**We will  pay for the printing costs of your poster. Instructions have been posted on Piazza.**
